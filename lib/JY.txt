@@ -1,0 +1,656 @@
+中国CN,#genre#
+CN CCTV 1,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQoXHeQzRU0QrGRAJpYiEkM/ts
+CN CCTV 2,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVrNrCXkBeR_-UvQG8zovT8/ts
+CN CCTV 3,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUQYLu2j4TdDDP55U73nSJA/ts
+CN CCTV 4,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfJ0Rt9s3lCrsC0dEtp5Ztw/ts
+CN CCTV 5,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVwZzlY4igOX1Vg5uduhTTw/ts
+CN CCTV 6,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQMeWJgcur2Q7IF6oPQ7IBA/ts
+CN CCTV 7,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfJlsDe34-T0_fD6YnIlWx0/ts
+CN CCTV 8,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU4JwcnL7-xvN8GtaTQm9Nc/ts
+CN CCTV 9,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMS2BgMOpJeJZRIH_-0nrE2w/ts
+CN CCTV 10,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXLtajMPglulLgadkGN9cBA/ts
+CN CCTV 11,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRSfKichYS7IPQPnn1CNUqg/ts
+CN CCTV 12,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfoKZ6Pt2kqYYjaGkKO_mXs/ts
+CN CCTV 13,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZCUo92GFEQWbFZ0jpg9QFo/ts
+CN CCTV 14,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVmSYlVnBb2nnDNd-2SNZVA/ts
+CN CCTV 15,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTXbD2fs1u0mDhDX6ZhG9lE/ts
+CN CCTV 16,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdJs7E8W8UTOaLEw6SMkrqI/ts
+CN CCTV 17,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdZYpaJli2JF88QmrvXWh04/ts
+CN CCTV 5 Plus,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVwGo_TVmG7N7c5PUggQBTk/ts
+CN 北京卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZW_1YAdXJ7MeYVcC5IC32c/ts
+CN 上海东方卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUKYyEQ38FcDaZThhCaM5GY/ts
+CN 湖南卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTj5732KegPZvu2RjrGbZRI/ts
+CN 浙江卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMW4lxO4Ujj46SJ568dG1dcM/ts
+CN 江苏卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQFj_3w2yQROCRR52QjTO6k/ts
+CN 广东卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfXtmRvOkQ_KoLIm6ZT4wRE/ts
+CN 深圳卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVi7wT0e2w1KEZb7SONwB3c/ts
+CN 南方卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZetrRxDYfVFgbJAgt0A6vQ/ts
+CN 安徽卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQIcTl_1i0QLb6P5lTIXahs/ts
+CN 山东卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRBBVoTk9bhaKdhKFcGpvfY/ts
+CN 辽宁卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUuFJbgdl0Cmi58A3E0aDrU/ts
+CN 吉林卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWIuO7nEOOWnf523cyr2o6E/ts
+CN 黑龙江卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZsiHLEc13NuBe3UNL4wfgw/ts
+CN 江西卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXdXjen0zKsyVFIqlceenwo/ts
+CN 东南卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMf58jZLwC9utFeypTlFEXJA/ts
+CN 天津卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWJ1qBA0A5lnFkWv0uNjmd4/ts
+CN 湖北卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWGcdm8s-fBGrPmZ2LV6nMQ/ts
+CN 云南卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTea7Jne6bfVEFsLbOc7j2Y/ts
+CN 重庆卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRfagiHF1kEkTZa97physkc/ts
+CN 河南卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMejFZn82OIYQF1ye231FPH4/ts
+CN 广西卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXOuI_gwOdzwNrcJqCrNpMc/ts
+CN 四川卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUILbZAsrTmPUsldRL4OFCE/ts
+CN 山西卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfBpm0VRDMHXXyLFvesLVJ0/ts
+CN 河北卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWxVNyX6DO_gpWencyr_fJI/ts
+CN 贵州卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMflZxl2STTcSAflGDTYtkOw/ts
+CN 海南卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUiSEE-r-cMuzTz1agiFKHs/ts
+CN 海峡卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaOuJcePhY5FD6OYutlrEiA/ts
+CHC 高清电影,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXTo-DQo-SwMiPeMQr6TZ4E/ts
+CHC 家庭影院,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVFjua_SQYH3ZA5lxy_rpgM/ts
+CHC 动作影院,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVmHSdc0VFGieD_eoirxEJI/ts
+CN 广东体育,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZ6yyDLFSles4EmjoBpADUU/ts
+CN 五星体育,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbOwROWbBeHORTZ8oqoU3kM/ts
+CN 广东珠江,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRTy5lvI87jHbyqTPK2p_zk/ts
+CN 五星体育,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeEdEd4NH3kGzodZ85ZteXw/ts
+
+香港HK,#genre#
+TVB 翡翠台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTrGvONmcnUFpaR5K7BF_x8/ts
+TVB J2,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcO5U6MtekZjLYeflFBxPJU/ts
+TVB 无线新闻台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbJZ-yx1uW34gmsbEWMViLM/ts
+TVB 明珠台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQOiuA8ggQ74aJ67ID3zXlA/ts
+TVB PLUS,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZYXuF4JF-G0vLGJ_-ignN0/ts
+ViuTV,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMd2E4_1CUlBa2JsiL9pEgfw/ts
+凤凰香港台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilManPZk6rmpnE9fXTMls7vmQ/ts
+凤凰中文台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVZmq5_Bg03Zvtot27esY7M/ts
+凤凰资讯台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWpaIowjj21NHAhFahcRDK0/ts
+TVB 黄金翡翠台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZdRkAOPbN-IFaPLILvONBs/ts
+TVB 千禧经典台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbPPvCgG_8Lqgz8yqCjzPCI/ts
+TVB 娱乐新闻台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRnWaqX0lqdvMCdL_BEyx_Y/ts
+美亚电影台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMS-OGsHt6GMlhv9aRB78A1s/ts
+TVB 黄金华剧台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSx5UbrsqAqVefBfS2migxk/ts
+TVB 华语剧台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfZDPo24x0yUwTHnbpvaA7w/ts
+TVB 亚洲剧台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbirma-I2j9ncZvRrzySNjU/ts
+TVB 功夫台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQHk3QyQrKGOEbIdWapGPo8/ts
+TVB 粤语片台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeSDyw6uP1L5wAsDNe5WNZ0/ts
+TVB 戏曲台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc64dgWCyAtHHd2omqkg9cg/ts
+TVB 星河(粤),http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRQlJonB_00kN2mJV7tfDK0/ts
+TVB 星河(国),http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQjLBsf3EKmRG4q-9ABks8U/ts
+SUPER Kids Channel,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcfskFILpAgDK3pLU5GHTXc/ts
+ZooMoo,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMd1_GLlxJpTKGj6NdKQ0Z24/ts
+TVB myTV SUPER 18台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcisiX3v0Yx7LH4P-NiVt-g/ts
+Now 新闻台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVCgZM5q4ri_gdWTla-40ys/ts
+Now 财经台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRahVwO1bSMnwQFaIoi9000/ts
+Now 直播台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeWowjWsBNuQT-jQnUlMhMc/ts
+Now 华剧台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMf_r6vWVFzWTm805baDNRSU/ts
+Now Viu剧集台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbPr1f0Shqj_kxET2sJIN7Q/ts
+Now 爆谷台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZVNyQVmyANj495gjXHVg68/ts
+Now 星影台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdpqGJFnkY8FMjEZ5klbgps/ts
+Now Sports 精选,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWoza8elgETieC9SGxlVHYA/ts
+Now Sports 1,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcCCnOLF6Wx_l-Lcr4GkVYc/ts
+Now Sports 2,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQrchveTxDggiOHQvYPdrzk/ts
+Now Sports 3,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTiGUllgYGLCqj4SlsTVCt0/ts
+Now Sports 4,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQK6M977mDFGLWWdfsodFbo/ts
+Now Sports 5,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMY9ZMe4i8TzMsHOKOBlrJLM/ts
+Now Sports 6,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMd_aO7pDeHwB7Ax2AuuKIdA/ts
+Now Sports 7,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMR5Cu4kKIXLPcVZ6AmIJMfY/ts
+Now Sports 英超1台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQm_5UQDloq45eOG0o57BK4/ts
+HKC有线18台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZ0UH3sQG4DM9XG-9KswwWQ/ts
+RTHK 31,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYGk7g1yMsCsWHXSo3ulzpE/ts
+RTHK 32,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaM54HwiRUdGc7W3xHy3epg/ts
+RTHK 33,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQs4y88ekCfKebFIcsyby6E/ts
+RTHK 34,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQflc44Zsw5PvGJkj0ppKCQ/ts
+RTHK 35,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSyQD9NGSDaWc64YSnTSJPE/ts
+HOY TV,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUetMT_XCIupC0pvW_7_Yz0/ts
+HOY 信息台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbf6KEaWEmaLxBpbtHWBR7E/ts
+HOY 香港国际财经,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfej6CJg1a2uJwUYPJcnSUg/ts
+NHKS香港卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdI8vKWi2YHxF_MHUemaiyY/ts
+香港C+频道,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbxecjjDEeeQW3jiksLBYvo/ts
+澳门莲花卫视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSHXxXPpzvAVbyHc9BEEGCE/ts
+
+台湾TW,#genre#
+中天新闻台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRhyQ2UAM3pyNQcNQNhih1k/ts
+东森新闻台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMV9UnjC2AV9iztcfqLfLsFU/ts
+TVBS新闻台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc1Nf_vU2X4IBCc3ET4u8nk/ts
+壹电视新闻台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMV-KnxkWMOj99fzQQnLfQ94/ts
+三立新闻,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfXyy_fJiONhObjwniphblk/ts
+民视新闻,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQoCWlVxmpdFL3hxm7YCrjA/ts
+台视新闻,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ7AGla88ChwikROfehnEVg/ts
+寰宇新闻台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaKaGKOxgkCJLculaI7T8TQ/ts
+寰宇新闻台湾台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ0djhPQezkn1d3mvzVMf18/ts
+年代新闻,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSezPQso4bEU3RLFsh8ZnNg/ts
+非凡新闻台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRO7F6JluwNXJBh1Vjcto4k/ts
+镜新闻,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZx8PetG7rkWQ7JzdXxL3p0/ts
+东森财经新闻,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdJYXBWf0Nkh85PFFybkyTI/ts
+寰宇财经,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSjl0lOi-IIqh9qrsYenRP4/ts
+东森超视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc9QuFaha0xwUW58_XtYHag/ts
+台视财经,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdASYZ4OnVFoWyvQiBmPBmg/ts
+中视新闻,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeeZdFUcZfBpAtuEZ024x2s/ts
+华视新闻,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSiAMdPC0PIzstY_eYtPqP4/ts
+三立INEWS,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbhAO3rJTcmuw7ZCb_ZedG4/ts
+民视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUMMGXCCWwobXn4-_iHOp-s/ts
+台视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbQBskVega0N_ApOhoy7Wls/ts
+中视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaGI63B8yHmrITyoDAa0sCU/ts
+华视,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWJfeyq0rWoLDYbfd00s5ac/ts
+公视3,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbBu5KOYJnG4zq4ndY4Nzvs/ts
+公视戏剧,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfkf0GnKlORPiXA8bABjNZY/ts
+公视台语,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfHLLNQENatEAKfOTQg63qI/ts
+TVBS綜合,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMReDF_3ZerTqWtpP6s7vpEI/ts
+TVBS欢乐,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTJWEebh72pUqPQKCIWY0iY/ts
+TVBS精采,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVKZeYE1fls0mA6t7zV78Zc/ts
+东森综合,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaGNqjmhDkAfq9hIasvQDws/ts
+东森电影,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeyA6XYa4ouz4vd_UK4BPIs/ts
+东森戏剧,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMf6rym0VME4rVFFvrhRqr0M/ts
+东森洋片,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ7RhdVKbO8PkjlYaHwgHEw/ts
+中天综合,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUjyPixJbT_pBBw7zhMSkI0/ts
+中天娱乐,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaZOEZcWc2s8OFGPmxpoRYM/ts
+中天亚洲,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRfhyb_Ekub8I_4oQ2QauCY/ts
+三立综合,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdeAlNrJfgMFFrh6EtJHlew/ts
+三立台湾,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSKm61v3s6SdbRTLS6ty-qg/ts
+三立都会,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWMOieI_1Fw7fK7eyg4Gxy8/ts
+三立戏剧,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQRC_rkIRyL21qhqjlaN-jE/ts
+三立国际,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc3fH1Jmo17IN-hc2B8dUJA/ts
+中视经典,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZbWL0p5SQWT74c6PmYHGO4/ts
+中视菁采,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTk07DK_miukZVH_5e6oyLI/ts
+民视旅游,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVwTVdtlD6_rVAwVabSitZY/ts
+民视综艺,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUjFKC8n95p71KuwdDb3I-E/ts
+民视第一,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWEboDTN--EULWuw-lnYPPQ/ts
+民视影剧,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfv_AXZcjRu__ZcS22mf9MA/ts
+民视台湾,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXrGh0k85DRZkE7OOAx6IHc/ts
+美亚电影,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeDQ3UUzBXRce7Q4sPxFA-I/ts
+HBO,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRwjnfw7YEqBk1VrzRpBV8c/ts
+HBO Signature,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ8iMqbY_LVqcdNqT0MWMiw/ts
+HBO Family,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeblAgIQFm7aVgKMvA9H8nQ/ts
+HBO Hits,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVPZrZ3va9OpPaSZACGA1Ic/ts
+Cinemax,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbsWuMefL7WAHMF6iqZsQ30/ts
+AXN,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQn4zYrc_W-3MobTXJRk-GU/ts
+CI 罪案侦查频道,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRGgIWuZJt_HQrnZBCprcXM/ts
+CATCHPLAY电影台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbOcoETIkG7UZOZEJQrKD_s/ts
+影迷数位电影台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbNqCGVU72LuoX8Zt9aBojg/ts
+影迷数位纪实,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMet3HhBOSG8Oq3kw6EqNUV4/ts
+龙祥电影,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTzinYC8qHYi9P_eHWGb6Jo/ts
+好莱坞电影,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfhADbv4pvEfKUfXebFqADc/ts
+华纳电视 warner,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdTFZYm3H1FwnEAOoi_zrpg/ts
+My Cinema Europe,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRvr4zr1Y9vDC0P7TWAKj3w/ts
+Cinema World,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeVlV-CrH_oKQpJrxjiv3Ro/ts
+AMC最爱电影,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdjkH-y9ULk0-jp053eervk/ts
+视纳华仁纪实,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYOQHDonNhas8S3gugLjGSQ/ts
+HITS频道,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUev3xJcGqLrkph2ugWINZQ/ts
+八大精彩,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbNC-Ot-yPmkfxrON05EsSM/ts
+八大综艺,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSuKuH97Ylxzmr6yFIsCTgI/ts
+八大綜合,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfK9K1VBNgHFd4LUNtgSnQg/ts
+八大戏剧,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRshE5kaOnAbjg1N30-vbfo/ts
+八大第一,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMffWXcOtms0uUfc901VoGuE/ts
+八大娱乐,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeyK_xjK4fChVE97TUzgQUw/ts
+纬来体育,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWFMDJnCGLy7NfZwLtfW0eQ/ts
+纬来日本,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMY5gVUsdACKY1WWxYKF9gZA/ts
+纬来育乐,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUJiNAzbE7K5KiPPEaR-O0U/ts
+纬来综合,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU1mSh8g6p87vK6u_gvE17I/ts
+纬来戏剧,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUeXqUqB4i5Mym0ZoW41rAM/ts
+纬来电影,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU5TPdkW8iT_YTIGfTwRdLM/ts
+爱尔达体育1台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcxgQ8kmos7T92FXpqlo9Lo/ts
+爱尔达体育2台,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaRQKgWpbHfhXJWhlH7Aq8Q/ts
+TW 爱尔达体育3,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdtiXcWYRcAKsIji_Mp1jfY/ts
+TW 爱尔达综合,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcM5oocECoN6CCtJNUq4Odo/ts
+TW 爱尔达影剧,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVxJARrsI8gtMOqCHdpRjOg/ts
+TW ELEVEN体育 1,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTpolgMrEwEUD0zKW9HROrw/ts
+TW ELEVEN体育 2,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYBPs3LD0INi6il4Dxbn1T4/ts
+TW JET综合,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMab555RfbdS0pfAaj1MIKmc/ts
+TW 亚洲美食,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUxZ5nVCDxfldVK5OKTdFYQ/ts
+TW 动物星球,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQB4wEFNjMz1jerbhJ0klWw/ts
+TW 亚洲旅游,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMR5RcFAdGXdJr_qWOY-Un-4/ts
+TW BBC Lifestyle,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQwo3bfa9PDDZZPrVhknS7A/ts
+TW 探索亚洲,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc8nMf4-SRpK3pOszSI_jr4/ts
+TW 探索科学,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU_kUKCkch9XoWzwaKJymVM/ts
+TW 探索频道,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeJQdBus0kMYJ_lAASas-cQ/ts
+TW Discovery DMAX,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbYgN8DQcjFCTSe40i24AKc/ts
+TW 美食星球,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbWkCMOSlYVS3X0VESrB7jQ/ts
+TW 历史频道 1,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMa3YItOsR7JXM-HJ8AZhUbQ/ts
+TW Love Nature,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQaM5X5VW7XnOPwAsrQGsIQ/ts
+TW BBC Earth,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdvexn_3W9SLE4ZrctriB_Y/ts
+TW Discovery EVE,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdiS9yCB63xXAF937FWXVyc/ts
+TW HGTV,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYSyL5C0k5LgWkGs0D5WENc/ts
+TW 幸福居家,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYn8ZdWRp4a2qgUUjxWS5RU/ts
+TW Boomerang,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMalPrez1MLz-iM9q05MguBY/ts
+TW Animax卡通,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbjY1IOHGCnQOQjOhSWaeKM/ts
+TW MOMO亲子,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMX_ZgY4FNIwCgrfkjxer6k4/ts
+TW 尼克儿童,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfCz7xc6_uCg3qzFY70p2C0/ts
+TW Nick Jr. 尼克幼儿,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMX5xEHj7lbZiJX5SJWGSaRo/ts
+TW 东森幼幼,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZnoBoCKrioPfTL7YNwNkE4/ts
+TW CARTOON卡通,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMftebEj7Z0UsDZ7c8WhpMFc/ts
+TW 达芬奇,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbTK5ecpx2QinekezJbClQk/ts
+TW i-Fun动漫,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWcCiGzt-qAoCS70MqNEid4/ts
+马来MY,#genre#
+Astro supersport1,p3p://173.208.176.178:31809/5ff7e55400052a7dcf48ff687a820e5c
+Astro supersport2,p3p://173.208.176.178:31809/5fded34c0008475b6d5be45731d55d06
+Astro supersport3,p3p://173.208.176.178:31809/5fded3620008eeb26d5c3a725b5a1adb
+Astro supersport4,p3p://173.208.176.178:31809/5fded3740003f8816d5c7f7d3e15547d
+W-Sport,p3p://173.208.176.178:31809/620c702d0008c6faef6d8abc762a3edd
+Astro aod351,p3p://173.208.176.178:31809/5fdeca140004e52a6d37e0be49f64a69
+Astro aod352,p3p://173.208.176.178:31809/63efe58900033edcf25265146c7b5b6e
+Astro aod354,p3p://173.208.176.178:31809/5fdeca5300094f496d38d7f8255f4c4f
+LoveNature,p3p://173.208.176.178:31809/5fe96780000bf31b96adee2068cf1132
+Hits Movies,p3p://173.208.176.178:31809/5fe7e6cb000d17db90cf9c5a45ff17b9
+Astro Aec,p3p://173.208.176.178:31809/6557a4a6000efa206f8e50c360a97728
+Astro Aec,p3p://173.208.176.178:31809/6533b8de000efc1be33df56933cc5afe
+Vasantham,p3p://173.208.176.178:31809/64df59e500087b7c99ac7efe179a1073
+天映高清(国),p3p://173.208.176.178:31809/64d733f10006463379d868e844611939
+天映经典(国),p3p://173.208.176.178:31809/64df54c20006094699986daf45690a01
+HUB premier1,p3p://173.208.176.178:31809/64bbb3db0000179e0e6caac365cb5ea7
+HUB premier2,p3p://173.208.176.178:31809/64bbb44c0002cfb40e6e64de0f652363
+HUB premier3,p3p://173.208.176.178:31809/64bbb4a20003920c0e6fb5005f03654a
+HUB premier4,p3p://173.208.176.178:31809/64bbb4e7000d13560e70c4f7058227b2
+HUB premier5,p3p://173.208.176.178:31809/64bbb54100028ca30e7221d64fd04cbb
+HUB premier6,p3p://173.208.176.178:31809/64bbb5910007bd500e735baa4dc0380f
+欧洲体育,p3p://173.208.176.178:31809/5fe6fc92000bb0078d3cad5824d31e8a
+TVB jade,p3p://173.208.176.178:31809/63eff4fa0004ad0cf28eb6dc6da26e00
+GEM,p3p://173.208.176.178:31809/6444006f000393eb3ad9fe745f943a0e
+ONE,p3p://173.208.176.178:31809/64bbb68f00027f4d0e773a843a9837ee
+Hakka TV,p3p://173.208.176.178:31809/63efed930000a9fbf271cb843cf532f0
+TVB 翡翠台 SG,p3p://173.208.176.178:31809/64bbb74a0005cac60e7a15d412a06b71
+BOO,p3p://173.208.176.178:31809/5fded40700033e036d5ebd8604bf417b
+8度空间,p3p://173.208.176.178:31809/64bce778000d4c1f131e20196db7116d
+HUB都会,p3p://173.208.176.178:31809/64bbb7fc0000f99e0e7ccbda6e527811
+HUB娱家,p3p://173.208.176.178:31809/64bbb85e0009c5db0e7e4ceb66ad5c17
+Okey,p3p://173.208.176.178:31809/63af15ab000e7656f5279258305b4b50
+Suria,p3p://173.208.176.178:31809/63af14b7000808e8f523d7917f367ce9
+NBA,p3p://173.208.176.178:31809/655bb7bb0005ae307f78ae416ea07506
+NBA,p3p://173.208.176.178:31809/640cfe24000bcb1663f9dd631ab54798
+SpoTV,p3p://173.208.176.178:31809/656f74ac00097859cc92688069041bb5
+SpoTV 2,p3p://173.208.176.178:31809/656f7589000dd70dcc95c8e80c56468e
+TVN,p3p://173.208.176.178:31809/64bbb90e000725a00e80fbc00f13242f
+Cinema One ph,p3p://173.208.176.178:31809/63f591fb000e7fca087bdb6f1fcc66fe
+新加坡SG,#genre#
+新加坡U,p3p://173.208.176.178:31809/63af12910006ed72f51b72d64a0d2f0b
+新加坡5,p3p://173.208.176.178:31809/63af121200067443f519829f19620651
+新加坡8,p3p://173.208.176.178:31809/63af12570009c52df51a910061fd7131
+Travelxp,p3p://173.208.176.178:31809/64bea2b70003f2c419e18bca30900d9d
+RTM TV 2,p3p://173.208.176.178:31809/5fdee0f90005f9506d914f8977f666af
+Astro 欢喜台,p3p://173.208.176.178:31809/620f05bb0000b01ff985bb62369741c0
+爱奇艺IQIYI,p3p://173.208.176.178:31809/5fe07bb800090e1173d5591b2d87144a
+Astro Oasis,p3p://173.208.176.178:31809/64bbb99f0005fdbf0e8331dd6a6f10a1
+Astro Awani,p3p://173.208.176.178:31809/5fded3bb0009615e6d5d96385067581c
+Astro Ceria,p3p://173.208.176.178:31809/63f58b0200080b9d08609d2727717ac3
+Astro双星,p3p://173.208.176.178:31809/64e79ef2000d4341b9fa0f83252962d5
+Astro全佳,p3p://173.208.176.178:31809/6557a0e7000ca80b6f7fae0f1a2442b8
+Astro全佳,p3p://173.208.176.178:31809/5fdedd4a00028c876d82eb0c22832e55
+Astro Aura,p3p://173.208.176.178:31809/61375df1000aeb31af289f004f670c2c
+Astro Arena,p3p://173.208.176.178:31809/5fe7e8d70000ca5290d79816405b4a78
+Astro小太阳,p3p://173.208.176.178:31809/5fe73a6e0002c79c8e2e4e6b5f402a1d
+Astro Warna,p3p://173.208.176.178:31809/6491c86300014b4e6aad8a5b5aa15eef
+Astro Vaanavil,p3p://173.208.176.178:31809/63f58870000f0bfa0856949f79897dd5
+CARTOON,p3p://173.208.176.178:31809/5fe7e52500054b3590c929e9016b3ecb
+Astro Cricket,p3p://173.208.176.178:31809/5fe7e312000e326190c1120560b323e1
+HBO,p3p://173.208.176.178:31809/5fe6c3b3000ae0538c5e86154ed52a5b
+9TV,p3p://173.208.176.178:31809/60298ed100097c1691446b9e7cc10b2c
+中天亚洲,p3p://173.208.176.178:31809/5fe6fce400011e568d3deaf35a511da9
+CNA,p3p://173.208.176.178:31809/64be9bb50006c1b519c62cba356951a9
+NTV7,p3p://173.208.176.178:31809/5fee9e750004e303ab0c996729da73f2
+天映高清(ID),p3p://173.208.176.178:31809/6471b17d00006ecded54c93b1ea4486b
+TVB JADE 华丽台,p3p://173.208.176.178:31809/64ee3cb2000a26c8d3d2192c252a0aba
+国家地理 SG,p3p://173.208.176.178:31809/63af1892000d7b2ff532e87303e607d9
+Cinema World SG,p3p://173.208.176.178:31809/63f5991400095495089793c611d61ab7
+卫视中文 SG,p3p://173.208.176.178:31809/64bbbacb000962fe0e87c69d7bc579ad
+KPLUS,p3p://173.208.176.178:31809/5fe7435f00048ff18e513c5359331915
+HGTV,p3p://173.208.176.178:31809/5fe7426a000a0fa38e4d80b2764a4e66
+DISCSCI,p3p://173.208.176.178:31809/5fe6fa5f000aa8ca8d3415da35f17e1d
+FOOD,p3p://173.208.176.178:31809/5fe6f9ff0002c3d18d329cd432c373fe
+CrimeInvestigation,p3p://173.208.176.178:31809/5fe6c72e0008aa908c6c1df07a9b6651
+Bein Sports,p3p://173.208.176.178:31809/5fe6fd5000061a148d3f921a327e3828
+Bein Sp Max,p3p://173.208.176.178:31809/5fe6c7e800036a868c6ef32902134116
+GOLF,p3p://173.208.176.178:31809/5fe7ed4d000b808990e907c90672381a
+CNBC,p3p://173.208.176.178:31809/5fe7ed9d000bee7690ea4066318039ec
+Animal Planet,p3p://173.208.176.178:31809/5fe7e4a6000d26d790c73bd36f7f42f5
+Disney XD,p3p://173.208.176.178:31809/5fe6fc1b000ac7f68d3adc447a2f6dff
+Disney,p3p://173.208.176.178:31809/5fe6fbc100001f378d3979f96c3c56d3
+Nickelodeon,p3p://173.208.176.178:31809/5fe6f99b000795818d31176f38c42fc9
+Bloomberg,p3p://173.208.176.178:31809/5fe7ee3900072cc790eca08f51983f0f
+History马来,p3p://173.208.176.178:31809/5fe7e68e000270df90ceab575c346366
+东森亚洲,p3p://173.208.176.178:31809/644519cf000cb5973f24f5b402296409
+卫视电影台,p3p://173.208.176.178:31809/64be2859000f3af818038f884a693ba7
+HUBsport1,p3p://173.208.176.178:31809/64bbbba7000905300e8b21e65c785e75
+HUBsport2,p3p://173.208.176.178:31809/64bbbbf60005e74b0e8c55b22fb43142
+HUBsport3,p3p://173.208.176.178:31809/64bbbc3f000774ab0e8d73402eb41ee6
+HUBsport4,p3p://173.208.176.178:31809/64bbbc97000012a50e8ec91c522d59af
+HUBsport5,p3p://173.208.176.178:31809/64bbbcde000394020e8fdf5a387a2bac
+天映频道(ID),p3p://173.208.176.178:31809/64e863a40000ec0abcfa63ab62e510cb
+PBO,p3p://173.208.176.178:31809/6456abf5000a07a583c7853f491079a1
+Celestial Movis,p3p://173.208.176.178:31809/6456adca0007295c83ceac8d42767576
+TVB Magic,p3p://173.208.176.178:31809/64bcf85500083b2d135ffe1a3ef73b5c
+Astro Arenabola 1,p3p://173.208.176.178:31809/64bd05ac0000680a139417f110dd4659
+Astro Arenabola 2,p3p://173.208.176.178:31809/64bd0692000e510013979df27f954b02
+日本JP,#genre#
+NHK総合東京 NHKG,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRPSXsCdDFpvIkOOSd8bsmU/ts
+日本テレビ NTV,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcnkX6uKSTQs-b3n1DUa_lQ/ts
+テレビ東京 TV Tokyo,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWcVqfWBRoGait24OmL80HI/ts
+テレビ朝日 Asahi,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU3v8lQhTJI-todPicm_CaY/ts
+フジテレビ富士 Fuji,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWYhszMxkZtow5PJXb6hwIQ/ts
+TBS,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXWuY5YYLeMQtNphQ3_Cl9c/ts
+NHK World,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZaFKaDZqfvkNNYt2f-Fa8o/ts
+BS-富士 FUJI,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQTAdZfwcL6q7sMHaNtnfYY/ts
+BS-TBS 161,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSqq4PPqSgazhEVwC43wJFA/ts
+BS朝日 151 Asahi,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMV-XGCXee4n3DTvjpguUP4s/ts
+BS NHK Premium 103,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdOtUj91rO6Dm_P_xgcNEsI/ts
+BSジャパン BS TV Tokyo,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeOndqMK72imlvp3d8sINt8/ts
+スター・チャンネル Star Channel 1,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSVsvBzTVvXiVkIWTsIVyEs/ts
+NHK BS 1 (101),http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdMbPqpuvLLNRU3QZKV1A_8/ts
+BS日テレ 141 NTV,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZi4FMNpQS-h-RzKDUhhU44/ts
+JSPORTS 1 BS242,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWrU2CBLYGBz2av_MR9M_iw/ts
+JSPORTS 2 BS243,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRtmOinduL6CYuyvGs_9Cn4/ts
+JSPORTS 3 BS244,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTWDAmYTg81JUGontNOV8ac/ts
+JSPORTS 4 BS245,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTP0dhA2MyQi45ot8IbxJBw/ts
+関西テレビ,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSTUHUtyFFatQGCZ4lbqiaQ/ts
+WOWOWライブ Live BS192,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYjTkRQRBO-TBeScDrj44rU/ts
+WOWOWシネマ Cinema BS193,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWKRjGb033vu6jQ9kidT8qY/ts
+NHK E テレ,http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU6IK5aQWoo2uPkfdXfybQs/ts
+印尼LD,#genre#
+
+Asianet,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asianet_raj&sp=chaojidianshi
+Asianet News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asianetnews_raj&sp=chaojidianshi
+Times Now,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=timesnow_mega&sp=chaojidianshi
+BBC Earth Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcearthtam_raj&sp=chaojidianshi
+Discovery World Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryworldtam_raj&sp=chaojidianshi
+History Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=historytam_raj&sp=chaojidianshi
+NatGeo Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeotamil_raj&sp=chaojidianshi
+Natgeo Wild Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowildtamil_raj&sp=chaojidianshi
+Discovery Kids Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverykidtamil_raj&sp=chaojidianshi
+Discovery Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytamil_raj&sp=chaojidianshi
+Sony Yay Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sonyyaytam_raj&sp=chaojidianshi
+Sun TV India,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=suntv_raj&sp=chaojidianshi
+Starmaa HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=starmaa_raj&sp=chaojidianshi
+Starmaa Movies HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=starmaamovies_raj&sp=chaojidianshi
+Bollyone,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bollyone&sp=chaojidianshi
+Astro Sunmusic,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Sunmusic&sp=chaojidianshi
+Sony Pix HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sonypix_mega&sp=chaojidianshi
+Vijay Super,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=vijaysuper_raj&sp=chaojidianshi
+印度LN,#genre#
+Sun TV HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Suntv&sp=chaojidianshi
+Star Vijay,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Starvijay&sp=chaojidianshi
+Colors Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Colorstam_mega&sp=chaojidianshi
+Sun Music,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Sunmusic&sp=chaojidianshi
+Astro Sunlife,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Sunlife&sp=chaojidianshi
+Astro Vaanavil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Vaanavil&sp=chaojidianshi
+Zee Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Zeetamil&sp=chaojidianshi
+Zee Business,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Zeebusiness&sp=chaojidianshi
+News 18 Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=news18tamil_raj&sp=chaojidianshi
+Adithya,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Adithya&sp=chaojidianshi
+Makkal TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Makkaltv&sp=chaojidianshi
+Zee Action,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Zeeaction&sp=chaojidianshi
+Astro KTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Astroktv&sp=chaojidianshi
+Zee TV HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Zeetvhd&sp=chaojidianshi
+Zee Cinema HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Zeecinemahd&sp=chaojidianshi
+Color HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Colorhd&sp=chaojidianshi
+Starplus HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Starplushd&sp=chaojidianshi
+Picture HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Npicture&sp=chaojidianshi
+Zee News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Zeenews&sp=chaojidianshi
+
+泰国TH,#genre#
+Amarin,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=amarin_pat&sp=chaojidianshi
+Ch 8,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ch8_pat&sp=chaojidianshi
+Channel 3 Thailand,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ch3_pat&sp=chaojidianshi
+Channel 5 Thailand,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ch5_pat&sp=chaojidianshi
+Channel 7 Thailand,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ch7_pat&sp=chaojidianshi
+Gmm Channel,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=gmmchannel_pat&sp=chaojidianshi
+GmmOne,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=gmmone_pat&sp=chaojidianshi
+MCOT HD Thailand-1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=mcot_pat&sp=chaojidianshi
+Mono,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=mono_pat&sp=chaojidianshi
+Nation,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nation_pat&sp=chaojidianshi
+Nbt,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nbt_pat&sp=chaojidianshi
+New,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=new_pat&sp=chaojidianshi
+PPTV Thailand1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pptv_pat&sp=chaojidianshi
+TPTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tptv_pat&sp=chaojidianshi
+Thai Thai,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=thaithai_pat&sp=chaojidianshi
+Thairath,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=thairath_pat&sp=chaojidianshi
+Tnn24,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tnn24_pat&sp=chaojidianshi
+Workpoint,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=workpoint_pat&sp=chaojidianshi
+tpbs,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tpbs_pat&sp=chaojidianshi
+越南VN,#genre#
+ANTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_antv&sp=chaojidianshi
+BPTV 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_bptv2&sp=chaojidianshi
+BRT HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_brt&sp=chaojidianshi
+Ca Mau TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_camautv&sp=chaojidianshi
+Danang TV1 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_danangtv1&sp=chaojidianshi
+Danang TV2 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_danangtv2&sp=chaojidianshi
+HBTV HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_hbtv&sp=chaojidianshi
+HTV 7,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_htv7&sp=chaojidianshi
+HTV 9,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_htv9&sp=chaojidianshi
+PTTH 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_ptth1&sp=chaojidianshi
+VTV 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_vtv1&sp=chaojidianshi
+VTV 7,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viet_vtv7&sp=chaojidianshi
+体育SP,#genre#
+Supersports 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp1&sp=chaojidianshi
+Supersports 1(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=go_assp1&sp=chaojidianshi
+Supersportq 1(備用2),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp1_mega&sp=chaojidianshi
+Supersports 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp2&sp=chaojidianshi
+Supersports 2(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=go_assp2&sp=chaojidianshi
+Supersports 3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp3&sp=chaojidianshi
+Supersports 3(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=go_assp3&sp=chaojidianshi
+Supersports 3(備用2),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp3_mega&sp=chaojidianshi
+Supersports 4,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp4_mega&sp=chaojidianshi
+Supersports 4(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=go_assp4&sp=chaojidianshi
+Supersports 5,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=go_assp5&sp=chaojidianshi
+Bein 2HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Beinhd&sp=chaojidianshi
+Beinsports HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Besports&sp=chaojidianshi
+Champion 5 EPL,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Champion5epl&sp=chaojidianshi
+WWE,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Wwe&sp=chaojidianshi&sp=chaojidianshi
+Champion 6 EPL,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Champion6epl&sp=chaojidianshi
+Fight Sports,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Fs&sp=chaojidianshi
+UFC Network,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ufc_mega&sp=chaojidianshi
+NBA TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nbatv_twn&sp=chaojidianshi&sp=chaojidianshi
+Astro Cricket,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Acricket_mega&sp=chaojidianshi
+Astro Golf,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Agolf&sp=chaojidianshi
+TNT Sports 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beeone&sp=chaojidianshi
+TNT Sports 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beetwo&sp=chaojidianshi
+TNT Sports 3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beethree&sp=chaojidianshi
+TNT Sports 4,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beefour&sp=chaojidianshi
+Sony Ten 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ten1_raj&sp=chaojidianshi
+Sony Ten 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ten2_raj&sp=chaojidianshi
+Sony Ten 3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ten3_raj&sp=chaojidianshi
+SPOTV 1 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=go_spotv&sp=chaojidianshi
+SPO TV 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=go_spotv2&sp=chaojidianshi
+Beinsports 2 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bein2hd&sp=chaojidianshi
+Skysports Arena,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongarena&sp=chaojidianshi
+Skysports F1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongf1&sp=chaojidianshi
+Skysports Cricket,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongcricket&sp=chaojidianshi
+Skysports EPL,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongepl&sp=chaojidianshi
+Skysports Football,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongfootball&sp=chaojidianshi
+Skysports Golf,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankonggolf&sp=chaojidianshi
+Skysports Main Event,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongmain&sp=chaojidianshi
+Skysports News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongnews&sp=chaojidianshi
+Skysports NFL,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongnfl&sp=chaojidianshi
+Skysports Racing,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongracing&sp=chaojidianshi
+Skysports Mix,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongmix&sp=chaojidianshi
+CCTV-5,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cctv5&sp=chaojidianshi
+CCTV-5+,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cctv5plus&sp=chaojidianshi
+愛爾達體育2台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2_twn&sp=chaojidianshi&sp=chaojidianshi
+愛爾達體育3台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport3_twn&sp=chaojidianshi&sp=chaojidianshi
+RTM Sports HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rtmsport&sp=chaojidianshi
+Arena,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Arena&sp=chaojidianshi
+Arena 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Arena2&sp=chaojidianshi
+BolaArena 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bolaarena1&sp=chaojidianshi
+Bein 1 Sports,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bein1_mega&sp=chaojidianshi
+Bein 2 Sports,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bein2_mega&sp=chaojidianshi
+Bein 3 Sports,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bein3_mega&sp=chaojidianshi
+Bein 4 Sports,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bein4_mega&sp=chaojidianshi
+Bein 5 Sports,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bein5_mega&sp=chaojidianshi
+Bein 6 Sports,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bein6_mega&sp=chaojidianshi
+Bein 7 Sports,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bein7_mega&sp=chaojidianshi
+Rugby Pass TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rugbypasstv&sp=chaojidianshi
+BolaArena 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bolaarena2&sp=chaojidianshi
+电影FILM,#genre#
+AXN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi&sp=chaojidianshi
+Animax,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Animax&sp=chaojidianshi
+Astrol Kplus,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Kplus&sp=chaojidianshi
+Axn HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Axn&sp=chaojidianshi
+CCTV-6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cctv6&sp=chaojidianshi
+CINEMAX,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn&sp=chaojidianshi&sp=chaojidianshi
+Celestial Classic,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial2&sp=chaojidianshi
+Celestial Movies HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestialindo&sp=chaojidianshi
+Cinemax,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Cinemax&sp=chaojidianshi
+HBO Family,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbofamily&sp=chaojidianshi
+HBO HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbo&sp=chaojidianshi
+HBO Hits,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbohits&sp=chaojidianshi
+HBO Signature,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbosignature&sp=chaojidianshi
+HBO_HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohd_twn&sp=chaojidianshi&sp=chaojidianshi
+HBO_HITS,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohits_twn&sp=chaojidianshi&sp=chaojidianshi
+Hits Movie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hitsmovie&sp=chaojidianshi
+Hits,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hits&sp=chaojidianshi
+Hollywood Movies,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hollywoodmovies_twn&sp=chaojidianshi&sp=chaojidianshi
+Movies Now HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=moviesnow_raj&sp=chaojidianshi
+One,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=One_mega&sp=chaojidianshi
+Paramount Network,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Paramountnetwork&sp=chaojidianshi
+Rock Actions,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rockaction&sp=chaojidianshi
+Rock Entertainment,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rockentertain&sp=chaojidianshi
+SCM,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Weishimovie&sp=chaojidianshi
+Sony Pix HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sonypix_mega&sp=chaojidianshi
+Star Movies HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=starmovies_raj
+Thrill,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Thrill&sp=chaojidianshi
+Warner TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=WarnerTV&sp=chaojidianshi
+tvN Movie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvnmovie&sp=chaojidianshi
+大愛2台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=catchplay_twn&sp=chaojidianshi&sp=chaojidianshi
+龍華電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie&sp=chaojidianshi
+東森洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern&sp=chaojidianshi
+東森電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie&sp=chaojidianshi
+美亞電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=meiyamovie_twn&sp=chaojidianshi&sp=chaojidianshi
+龍華洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn&sp=chaojidianshi&sp=chaojidianshi
+龍祥时代,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lungxiangtime_twn&sp=chaojidianshi&sp=chaojidianshi
+
+新闻INFO,#genre#
+ABC News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=abcnews_glo
+Al-Jazeera,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=aljazeera_twn&sp=chaojidianshi
+BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bbcnews
+BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn&sp=chaojidianshi
+Bloomberg News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
+CBS HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbshd_glo
+CBSN HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbsn_glo
+CGTN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=CGTN
+CNA,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cna
+CNBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnbc_twn&sp=chaojidianshi
+CNN International,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Cnn
+CNN(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnn_twn&sp=chaojidianshi
+DW (Deutsch),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=dw_twn&sp=chaojidianshi
+Fox News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn&sp=chaojidianshi
+France 24,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=france24_twn&sp=chaojidianshi
+NHK World,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nhkworld_japan
+Skynews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=skynews_antik
+東森財經新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvcaijing_twn&sp=chaojidianshi
+儿童KIDS,#genre#
+Animax,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Animax
+Baby TV Eng,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Babytv
+Baby TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=babytv_twn&sp=chaojidianshi
+Boomerang Taiwan,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=boomerang_twn&sp=chaojidianshi
+Boomerang,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Boomerang
+CBeebies,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Cbeebies
+Cartoon Network,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Cn
+Disney Taiwan,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=disneytwn&sp=chaojidianshi_twn&sp=chaojidianshi
+Kids TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=KidsTV
+MiaoMi,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=MiaoMi
+Momo TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_twn&sp=chaojidianshi
+Nick Jr,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickjr
+Nickelodeon,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickelodeon
+東森幼幼 Yoyo TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=yoyo_twn&sp=chaojidianshi
+靖天卡通台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn&sp=chaojidianshi
+XXX,#genre#
+松视1,p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb
+松视2,p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df
+松视3,p3p://173.208.176.178:31809/6109e9590001f40bfd9b661109395f3b
+松视1,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+松视1,http://18.svi-studio.com/live/176619383282/537544338952/5.m3u8
+松视2,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+松视2,http://18.svi-studio.com/live/176619383282/537544338952/6.m3u8
+松视3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+松视3,http://18.svi-studio.com/live/176619383282/537544338952/20205.m3u8
+松视4台,https://u.kstore.space/download/8504/%E8%8B%B9%E6%9E%9C%E9%A6%992.mp4
+惊艳,p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe
+LOOK,p3p://173.208.176.178:31809/606271190002a1266f75aaee0463186a
+HAPPY,p3p://173.208.176.178:31809/616b79be000a35b17ab2f7b84c325eeb
+彩虹e,p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f
+彩虹K,p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493
+彩虹电影,p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6
+彩虹频道,p3p://173.208.176.178:31809/63fd589300099ff426db7203798a21f9
+极限电影,p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
+西方OFFICE场景,p3p://173.208.176.178:31809/6403cb9f0003a839400cad904b301253
+🔞奥視2,http://125.227.210.55:55643/VideoInput/play.ts
+🔞奥視3,http://125.227.210.55:8917/VideoInput/play.ts
+♥️潘朵啦玩美Perfect,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+♥️潘朵啦玩美Perfect,http://18.svi-studio.com/live/176619383282/537544338952/3.m3u8
+♥️驚豔台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+♥️驚豔台,http://125.227.210.55:8156/VideoInput/play.ts
+♥️驚豔台,http://18.svi-studio.com/live/176619383282/537544338952/01.m3u8
+IBizaHDTV1,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+IBizaHDTV1,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+IBizaHDTV5,https://cdn1.ibizastream.biz:441/free/Stream5/playlist.m3u8
+IBizaHDTV5,https://5ed5d165c218d.streamlock.net:441/free/Stream5/playlist.m3u8
+💖Sex❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
+🍌️香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+
+
+西方黑白大战,p3p://173.208.176.178:31809/6403cc0d0000f97a400e5a9115f012f3
+中字有码1,p3p://173.208.176.178:31809/5fe790790005783d8f7e6a1d2f8774e6
+中字有码2,p3p://173.208.176.178:31809/5fea645500007b7e9a898b3d6ea244cf
+日本j-girl,p3p://173.208.176.178:31809/5fe6d5ab000d6dc38ca4b77276be2f75
+上原亚衣,p3p://173.208.176.178:31809/5fed670a00074c56a64c200b26e62c10
+日本PPV-1,p3p://173.208.176.178:31809/5fed5578000e28fba6077f774fba6950
+奥体金丝雀,p3p://173.208.176.178:31809/5febb68d000c74979fb2b90c461f0bfb
+日本VR精品,p3p://173.208.176.178:31809/5fea649900057d369a8a9626665058f0
+日本加勒比无码,p3p://173.208.176.178:31809/5fe6d4c0000ea3178ca121c83d4b0a39
+日本东京热无码,p3p://173.208.176.178:31809/5fe6d4f10006c6ec8ca1df2d4bd07a2d
+韩国演艺圈潜规则,p3p://173.208.176.178:31809/5fe6d643000a32ae8ca7085f68304b38
+日本一本道无码,p3p://173.208.176.178:31809/5fe6d4d8000a01508ca17e596611121f
+日本CATWALK POISON,p3p://173.208.176.178:31809/5fe7fe14000bbbb1912a91354e4b5706
+日本J-Girl,p3p://173.208.176.178:31809/5fe6d5ab000d6dc38ca4b77276be2f75
+Playboy KR,p3p://173.208.176.178:31809/646fa54000041fa7e554fbe50f3b3077
+Midnight KR,p3p://173.208.176.178:31809/646fa5d10004a256e557326f0b8b5682
+Miami TV,p3p://173.208.176.178:31809/64eefc5700067df3d6beb4ce0b4d4a5d
+MiamiTVJennyForYou,p3p://173.208.176.178:31809/64ef02c100057c77d6d7c2942a8e0343
+大神猫先生,p3p://173.208.176.178:31809/5fed7efe000093e8a6a9af6f691c7583
+麻豆天美传媒,p3p://173.208.176.178:31809/61bff85e00029535c4bd1c4f47fb5400
+七天极品探花,p3p://173.208.176.178:31809/62ca5692000275f2c95644b27e04396b
+苍井空,p3p://173.208.176.178:31809/5fea6483000512cf9a8a401a24db1f4e
+波多野结衣,p3p://173.208.176.178:31809/5fe6d96b000d95298cb35d8161902e91
+Heyzo无码,p3p://173.208.176.178:31809/5fe8014b0007228691371ed44a517e44
+人妻斩,p3p://173.208.176.178:31809/5fe7fd63000e253a9127de6a777d49b4
+猫步毒药,p3p://173.208.176.178:31809/5fe7fe14000bbbb1912a91354e4b5706
+人妻熟女,p3p://173.208.176.178:31809/5fe8019000071e4f91382c5b7fef4506
+素人动画,p3p://173.208.176.178:31809/5fe7ff6e0001271f912fd60179236471
+XXXAV,p3p://173.208.176.178:31809/5fe80214000d2ec8913a3189085b6434
+黑珍珠,p3p://fccsen.dyndns.tv:29706/5e17adad000be87d05e8384a1be757b6
+色情世界,p3p://fccsen.dyndns.tv:29706/641668210006c654685657293a3f03ba
+人妻出轨,p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
+日本天热素人,p3p://173.208.176.178:31809/5fe6d51e0009f6db8ca28fc66a750553
+FC2PPV-1,p3p://173.208.176.178:31809/5fed5578000e28fba6077f774fba6950
+Play boy,p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
+古川伊织,p3p://173.208.176.178:31809/5ff7430900000f8fcccf091c30805ccb
+日本无码破解,p3p://173.208.176.178:31809/5fef580000022fb6ade15fa160a61ae1
+迷奸无码,p3p://173.208.176.178:31809/5ff201c40003b7e3b8481485121959a6
+经典三级片1,p3p://173.208.176.178:31809/62dac52e00087a70098570f12b7962e5
+日本情色动漫1,p3p://173.208.176.178:31809/5ff742d8000bbabbccce4cb0100a31ff
+麻豆大番,p3p://173.208.176.178:31809/5fee099a000e4a8da8c7244c6ff632e3
+麻豆导演,p3p://173.208.176.178:31809/5fee723900074e31aa5fcfa0561f1b95
+麻豆外番,p3p://173.208.176.178:31809/5fee86ee0006ce80aab0b2811d842258
+麻豆台湾,p3p://173.208.176.178:31809/5fef5ed40002a464adfc0be76180670f
+91沈先生,p3p://173.208.176.178:31809/5fee5d4500060214aa0df631581d3164
+鸭总探花,p3p://173.208.176.178:31809/5fee5d6300022e98aa0e6a660e9f6d9f
+金三角猎艳,p3p://173.208.176.178:31809/5fedf9d60007fb5ca8898d0b546620cc
+黑人干翻天,p3p://173.208.176.178:31809/5fedfa1c00068347a88a9e1b1b517e42
+千人斩,p3p://173.208.176.178:31809/5fee93e80000c61aaae361853fd36c1f
+小宝寻花,p3p://173.208.176.178:31809/5fee940f000cad40aae3fce963f95891
+午夜寻花,p3p://173.208.176.178:31809/5ff22f59000ea2d6b8fa255a1d4c635c
+男爵探花,p3p://173.208.176.178:31809/62bf9f8c000c9a4c9f7bcb53499c786f
+大陆迷奸,p3p://173.208.176.178:31809/5ff395d60009ac7fbe727c5c77ee33a8
+SM西贡女,p3p://173.208.176.178:31809/5ff92d000005f07cd448f7774faa47bd
+PsychopornTW,p3p://173.208.176.178:31809/5ff399460003af78be7fe8571735593d
+俄罗斯毛子,p3p://173.208.176.178:31809/5fef89a7000537fcaea354cc0cff353a
+美国家庭,p3p://173.208.176.178:31809/5ff7341b000bdc38cc94ba7e6b763297
+欧美艺术,p3p://173.208.176.178:31809/607e1f9f0004af8edb961118303e4935
+果冻传媒,p3p://173.208.176.178:31809/5ff5420900039286c4fb220f4b133915
+利哥探花 1,p3p://173.208.176.178:31809/61b4e9970009588e998c4b9532e01f5f
+利哥探花 2,p3p://173.208.176.178:31809/64ebf4ae0000f1c2cae8c73738a337d4
+精东影业,p3p://173.208.176.178:31809/6135966100022f18a83512374f864fd8
+香港三级2,p3p://173.208.176.178:31809/607e0dca0005cd6ddb506963435f6f5a
+中文有码3,p3p://173.208.176.178:31809/5ff70064000178a1cbcab4ef4f5f0bd9
+天台素人约啪,p3p://173.208.176.178:31809/5fea646c000b95d79a89e7ed2c483b7a
+日本强奸迷奸无码,p3p://173.208.176.178:31809/5ff201c40003b7e3b8481485121959a6
+Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
+sky angel blue,p3p://173.208.176.178:31809/6135967b0008b0e7a83579725d7b7ab3
+IBIZA 巨乳控,p3p://173.208.176.178:31809/644ecb5f000ca4ee650265db655d0248
+Dorcel XXX,p3p://fccsen.dyndns.tv:29706/5e5f0e09000182301cb87c94194b43d6
+Vivid red,p3p://fccsen.dyndns.tv:29706/5b2c54aa0003c48fe0d1190f0090339a
