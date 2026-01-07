@@ -1,0 +1,324 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳",翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港澳",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+http://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳",TVB PLUS
+https://o11.163189.xyz/stream/tvb/tvbp/
+https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="港澳",TVB星河
+http://cdn10.163189.xyz/163189/xinghe
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港澳",无线新闻台
+https://cdn6.101.qzz.io/163189/wxxw
+https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="港澳",TVB娱乐新闻台
+https://cdn6.101.qzz.io/163189/ylxw
+#EXTINF:-1 tvg-name="华丽翡翠" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳",华丽翡翠
+https://cdn6.101.qzz.io/163189/hlfct
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="港澳",千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092840/03_TVB-Drama-Banner_1920x1080-1-768x432.jpg" group-title="港澳",翡翠剧集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092850/01_TVB1-Banner_1920x1080-1-768x432.jpg" group-title="港澳",TVB1
+https://6.cdn.loc.cc/163189.php?id=tvb1
+#EXTINF:-1 tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="港澳",TVBJ1
+https://6.cdn.loc.cc/163189.php?id=j1
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳",ViuTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 tvg-name="功夫台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/功夫.png" group-title="港澳",功夫台
+https://cdn6.101.qzz.io/163189/yzwx
+#EXTINF:-1 tvg-name="HOY-77" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳",HOY-77
+http://cdn.163189.xyz/163189/hoy
+https://cdn6.101.qzz.io/163189/hoy
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="港澳",RTHK31
+http://cdn.163189.xyz/163189/rthk31
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳",RTHK32
+http://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="港澳",澳视澳门
+https://cdn6.101.qzz.io/163189/asam
+#EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/87/TDM_Ou_Mun_Macau_logo.png/500px-TDM_Ou_Mun_Macau_logo.png" group-title="港澳",澳门卫星
+https://cdn6.101.qzz.io/163189/as
+#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/500px-TDM_Entertainment.png" group-title="港澳",澳门综艺
+https://cdn6.101.qzz.io/163189/amzy
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TDMSport.png/500px-TDMSport.png" group-title="港澳",澳门体育
+https://cdn6.101.qzz.io/163189/amty
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ca/Lotus_Macau.png" group-title="港澳",澳门莲花
+https://cdn6.101.qzz.io/163189/amlh
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳",NOW新闻台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="港澳",凤凰中文
+https://cdn6.101.qzz.io/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="港澳",凤凰资讯
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="港澳",凤凰香港
+https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/330px-Logo_8TV_Malaysia.png" group-title="港澳",八度空间
+https://cdn6.101.qzz.io/163189/8tv
+#EXTINF:-1 tvg-name="CHU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/500px-Mediacorp_Channel_U_2023.svg.png" group-title="港澳",CHU
+https://cdn6.101.qzz.io/163189/chu
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 tvg-name="CH5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/500px-Mediacorp_Channel_5_2023.svg.png" group-title="港澳",CH5
+https://cdn6.101.qzz.io/163189/ch5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-name="CH8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/1600px-Mediacorp_Channel_8_2023.svg.png" group-title="港澳",CH8
+https://cdn6.101.qzz.io/163189/ch8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Hua_Hee_Dai_%282024%29.png/500px-Astro_Hua_Hee_Dai_%282024%29.png" group-title="港澳",Astro欢喜台
+https://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Astro_AOD_%282024%29.png/500px-Astro_AOD_%282024%29.png" group-title="港澳",Astro AOD
+https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Astro_AEC_%282024%29.png/500px-Astro_AEC_%282024%29.png" group-title="港澳",Astro AEC
+https://smt.1678520.xyz/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://static.wikia.nocookie.net/tvinfo/images/7/74/Astro_QJ.png/revision/latest?cb=20250720051549&path-prefix=zh" group-title="港澳",Astro QJ
+https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="港澳",重温经典
+https://cdn6.101.qzz.io/163189/cwjd
+#EXTINF:-1 tvg-id=\"民視第一台\" tvg-name=\"民視第一台\" tvg-logo="https://cdn7.esnad.dpdns.org/5152027cb94e07adb515453f3b67bbc73a384eaff515bfa1a8181bcf7ea1165c1c8e21dc1b9de18e9d30d90f4ee54f8f25da22d6aef8afa3c364519e19fd377db9ddd59021916c51fd31c0514c917dbf7dc802dbc7710eac746b27acc95bcbf6cd27c74412b4c328585c1cd19d0d449f" group-title="綜合",民視第一台
+https://player.esnad.dpdns.org/player/cdn.php?id=1&token=188d2ad512c3689627eb1742799ce59f3664b9edb0374b11517015189b4a33f8
+#EXTINF:-1 tvg-id=\"民視台灣台\" tvg-name=\"民視台灣台\" tvg-logo="https://cdn7.esnad.dpdns.org/b45dcd0032374d69c4e1f61e0e57a1ce0b3cd3f8cb04f58ed54d5af1a2428f142d125583fd4235d9ec8bfc5aafcd58f6bd3866781bb72c75c9bab2d4690a5015d3e6881dccde1a83a9bab2c764bbf5871dd0d7fcbc2472c3c33dfb3deabef481a01290c01b5856ba66c782ed3ab81595" group-title="綜合",民視台灣台
+https://player.esnad.dpdns.org/player/cdn.php?id=2&token=35642a08bf0abd6b81a0c335511903288a8aa469fc1ed75ff55a83d54f6cff3f
+#EXTINF:-1 tvg-id=\"民視\" tvg-name=\"民視\" tvg-logo="https://cdn7.esnad.dpdns.org/c0925e3a9a02f8122bcfa296dca0fbb4c1ac95c633b7fb344bfbce43add91deb867a5d607888da08db88763e1046d2c11a68fc5085e95febcb51454063715ce0ce005ebb7135b4195627c0a0b87575473e3e39b6edfd2ed7eb44740294572dec40981998eb8191d7aa87850bfc7cd725" group-title="綜合",民視
+https://player.esnad.dpdns.org/player/cdn.php?id=3&token=f636f7523f3da45641875010feb0b9c199a40fcc3fcfe33fc2fa6426fccab4b0
+#EXTINF:-1 tvg-id=\"大愛電視\" tvg-name=\"大愛電視\" tvg-logo="https://cdn7.esnad.dpdns.org/c8e1220294826bbfc98e3cb69f572c6ddbfca99296a736aec2f88f9305102d9722f3da3ff1f8681e298848bff1e9da9b55e95a596b219b2f1db86328e9508754806fa3315683e82ddb1e7892e3e0ccaeb83aeb374630c9d3b00b77a0ce8ca4a9e0ee056a7ff0cd45460edab8883fc7ea" group-title="綜合",大愛電視
+https://player.esnad.dpdns.org/player/cdn.php?id=209&token=a24b3ec6a4830c30159f6a805279eb4b436b2c71576f94d07512fcc689d3ee85
+#EXTINF:-1 tvg-id=\"中視\" tvg-name=\"中視\" tvg-logo="https://cdn7.esnad.dpdns.org/0ef1be872ecacbd28b17d237bb18657afc49512710d983a513c82b500c1278bd56aeba1a03b0e3ed4b7dc617ffe27fd8ab99559ce4890172351825c861ec9a1bd0476a717669459791e72be2550df7d4379d47e47862fa50c0737672b5e6e83b985a3f1f946aa609027fcea44adbba1b" group-title="綜合",中視
+https://player.esnad.dpdns.org/player/cdn.php?id=4&token=0951e519aeb58b2868831580c881a302e580ff50a69b93b375eb4db8001f061a
+#EXTINF:-1 tvg-id=\"華視\" tvg-name=\"華視\" tvg-logo="https://cdn7.esnad.dpdns.org/4f123f02aae18e319945fc622a1778c7425affb645b5da081ab22fd666ccdeff049053f5de05623be30a9433265f87120173db570e0b64332a8e8cc2897f38e1d17e2fed42875afb68ff30616ad9a95a73332a5717e5bdbda7d7a5b05559215a02d1ca7d9cdfe7ca05248eac5db0bbf2" group-title="綜合",華視
+https://player.esnad.dpdns.org/player/cdn.php?id=6&token=1885d96af2fc4a549f4f346ff4871ceba4aff489623962b1996727527671ebdc
+#EXTINF:-1 tvg-id=\"三立綜合台\" tvg-name=\"三立綜合台\" tvg-logo="https://cdn7.esnad.dpdns.org/e01a205c5b8ea06c16430bbe5b8d8578732ed20961f5facd64843a006e004a5ff198969c27dca9f6d0a396840986d8f7340e02f0ca932de60ecc4b09779c29ac476e130b29c4bd00534922fbe74e0736bebe7d9d3cb329cfb144894abdd5ce12b83fe6b014926fe177d3aa07a65961c0" group-title="綜合",三立綜合台
+https://player.esnad.dpdns.org/player/cdn.php?id=169&token=d53cde5e0926ae0152c68029cb1163252b8a6ccff84fb08ff4fc68f34ef854e2
+#EXTINF:-1 tvg-id=\"客家電視台\" tvg-name=\"客家電視台\" tvg-logo="https://cdn7.esnad.dpdns.org/ec529c38133fc766fd6c0cfb720b5300700132bed0bb1f6806fd9daf773b503e438de39b0fec1fc85742ad39b6441faf2def5f3ac2ead8e8a84be07508e5e49bcfc72fbdef6c7670899eb5660ec89ef96878d1cac4d9b726e340c5daed27b46022fddeb7f25556cb69d5338f7cdf6b03" group-title="綜合",客家電視台
+https://player.esnad.dpdns.org/player/cdn.php?id=107&token=94fe1dfa174fe351ddfd40ddd59a3f658ee0674786f57d6208c59e51e9938461
+#EXTINF:-1 tvg-id=\"八大綜藝台\" tvg-name=\"八大綜藝台\" tvg-logo="https://cdn7.esnad.dpdns.org/53ab4c6085eb05509b6395999599ea30e406d7c22ce998c4768e8249d77197af7003d1eaa9eec187a94e5bb3b79652588510a9dd4769785ca8123da612c1da826b96dcbeaf94d738d4301a0891303601f7d0347489a09b46e253db85b18c2e2836176657c413e3f79d3aea7cad3be554" group-title="綜合",八大綜藝台
+https://player.esnad.dpdns.org/player/cdn.php?id=114&token=a6e5c88f99f291514b25b89351719b8214965d5e30f31390959730b76ab54972
+#EXTINF:-1 tvg-id=\"中視菁采台\" tvg-name=\"中視菁采台\" tvg-logo="https://cdn7.esnad.dpdns.org/35fe64dae7006e55bfb801116d7b8fb6cad8d1bd8a63270d92670b2b22307ed83adf8c8038acb8313db015b15891334e601f35fbd21338f7a8a63eb269227d247abdbe57d7b67cdf9cb01b08a6dabf2ba29d7d1b2c0fd60b04b6f8c5e855d8ef988d81b615089267f81367de3f4f65a4" group-title="綜合",中視菁采台
+https://player.esnad.dpdns.org/player/cdn.php?id=123&token=af2d41c580430d3fc31d0b6e6e77edf6c5154d7a359680b36591fb116f54e390
+#EXTINF:-1 tvg-id=\"TVBS精采台\" tvg-name=\"TVBS精采台\" tvg-logo="https://cdn7.esnad.dpdns.org/ca0c77dc631705d72dda4c48c49a7217a33c2a1141ebba811c68721f948b290257dcd1ded367994af56feb7bcce7d180107f871860d2fe7d858c42a950028a8e788eb0a20ab2f5d9da684b8e034a7fe4a515570db69e42bfb97cd9f1dd88972454302859d84339934c281512d9eb3b86" group-title="綜合",TVBS精采台
+https://player.esnad.dpdns.org/player/cdn.php?id=227&token=9999c087f12495a8b4eb62b95ecefb76fc8549adfe45dbd0505b0c134e2d5b74
+#EXTINF:-1 tvg-id=\"愛爾達娛樂台\" tvg-name=\"愛爾達娛樂台\" tvg-logo="https://cdn7.esnad.dpdns.org/7dcd8c0029018e01e290f7f2c0fce28ad0f94d0d05e7444c548b7e305af20a2456e093d6f58b28aa1bdac6e9ce6e872cdd680c53c3c8e98f9f40d666e69ee004e2c5ec430b9b362c656396617a68c6a93949fb013d703848171cb8e9d4f2b4c20bc7b60e8ad4aaffcefdb6b2368c7a54" group-title="綜合",愛爾達娛樂台
+https://player.esnad.dpdns.org/player/cdn.php?id=19&token=b2c0f5ee056b7311aaba2ac88064e332a77b1c7a97ab3ba56cfb0422c8701dd3
+#EXTINF:-1 tvg-id=\"靖天綜合台\" tvg-name=\"靖天綜合台\" tvg-logo="https://cdn7.esnad.dpdns.org/bc0e19564e5b02f80c906756dfd8fcd27baa62b722b140cbc26e18a13d3e46d6017e1cea6785ba1ffda6b01d034e7bfb14689ae8a0db7e5310eb3f68043f7f45d15dcce944a05443a7fe11fcda8ddaa4c40bffcbbd877c75f7605a0c0b1495d8f0601627a3a377c889595a6a39ee43e8" group-title="綜合",靖天綜合台
+https://player.esnad.dpdns.org/player/cdn.php?id=21&token=cc61e41f317f3782c64fe0c180f8cf7b0f528138945d73becd6e5f12b750b454
+#EXTINF:-1 tvg-id=\"靖天日本台\" tvg-name=\"靖天日本台\" tvg-logo="https://cdn7.esnad.dpdns.org/be4290bb490f92ad9aae7d96548c03715a466004fe1ed3623cdb75a21b4fc4387408cb2a4a196dc5063334befc4ef301760465da67cd57948bed495a2527d71232ff4844d35e7c8a4ee46f5fbe7901ab8b49de3ea6058bbd0e05f48061b9c0bcdd63b9963d1bda8a90e01c9d4ea1e5d4" group-title="综艺",靖天日本台
+https://player.esnad.dpdns.org/player/cdn.php?id=22&token=e419a1afe25c5c1098f350c731c036f8e58937b35aab5d06ee24681cfad460d8
+#EXTINF:-1 tvg-id=\"ARIRANG阿里郎頻道\" tvg-name=\"ARIRANG阿里郎頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/a567d55bdc5ca4326c5471ff319ae66017ebca5db67d23e94a51b55bfd7b708f2bc83c0fed0a245244f1f3bda03580715d549d4e6a007189630ff13211ea65bd3e0904de22bed49b0d2234446df78e46dc06e731a9f790b5664ded35868bffaf2cdccf39e929d71f40e5c96761b54311" group-title="綜合",ARIRANG阿里郎頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=189&token=a70be50ab4388ada9f1d11763bbe421d1d732249913a27be1cab3d0427b35c5e
+#EXTINF:-1 tvg-id=\"Global Trekker\" tvg-name=\"Global Trekker\" tvg-logo="https://cdn7.esnad.dpdns.org/e0a1f2d29606048767d9a7e4e4f072647f06f3fa7d4c5e0038e031921d1ee075591025f923a21a8a75deaffb89e0f7b4589e5d29a6e0e111c7849384b33d73bd5b1d07ba96cc06fd6b72665f12339bbfc14e51f5fcc244632773f7d1a7a677039b589f0e24918aeca18d9f42d66904ec" group-title="綜合",Global Trekker
+https://player.esnad.dpdns.org/player/cdn.php?id=252&token=18566fe1972a4be1ed273c942be7bd58e9d128cacb09a05caa60e7a83e4c5eb9
+#EXTINF:-1 tvg-id=\"原住民族電視台\" tvg-name=\"原住民族電視台\" tvg-logo="https://cdn7.esnad.dpdns.org/a1fa9d75dd5ae2d51397310a859a2a35172859c5121576ff477ec8088ffffec7b90d5884c3825ef17a710d55e3d9bd5884cfaacbec372c7a1aa1321beed2947c1862d4fa670ab921e4dc05c860bdc265a0f88db1dfd4374475348b55a65b3972833f4621e995c7c74b4b6b30d2c015de" group-title="綜合",原住民族電視台
+https://player.esnad.dpdns.org/player/cdn.php?id=273&token=b2c5f90347f6d087a0176570594ce48254facc645392297369e369eed6d3e2de
+#EXTINF:-1 tvg-id=\"東森購物四台\" tvg-name=\"東森購物四台\" tvg-logo="https://cdn7.esnad.dpdns.org/97809e9c90bb3e9f5bf0b8ff75bcfd2e88f99e2d86d4962ff98073cd74d9f74536ce11a7095a1a2ad54c55e09af49748017fde162ae30a814e42ba8073f647fc5dd37416acf83ab666918d773731b57deba40c5c904b328bcefee13ced23a33c3d803798e73e0382ad1b2d6987310321" group-title="綜合",東森購物四台
+https://player.esnad.dpdns.org/player/cdn.php?id=286&token=48cfb7f446b75812762f45908318a083520252356e73d0d6d7bab06eef276706
+#EXTINF:-1 tvg-id=\"LiveABC互動英語頻道\" tvg-name=\"LiveABC互動英語頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/04122c04152e1e91759ad5302c87d14f324c22156d4c1ded50064784f342512b0599c496a4a0f0e6709732fae1d23f4abcadc3bfba586b1db858da859b0908b60e4c4d4d83a92698bc880cca856b263ab8b0495a75b0d1c9467807c7815def4d4ddfe24fe38f0747c6804d5b9c60a7b6" group-title="儿童",LiveABC互動英語頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=188&token=563c6dc3d39784a6b951c693357b1360e37b798c278f1ac4451e3a7d45a7fde7
+#EXTINF:-1 tvg-id=\"達文西頻道\" tvg-name=\"達文西頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/7b08b8d1e22b345f365012244e4fe4676e30f4d6be8cdad652ea3693bd4e482b2f76004a99f53496a676f417f705c370b1628afa0c5cf1327196376709283bb0e8b09d38e7e25c1e87d6d207d23f2aa3ecc31e67a31c13cb259fb1a3a34116d29a5cd332af05ce10aecb957ee4930fe1" group-title="儿童",達文西頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=11&token=cfe06ab943664c41c0eb3e86bb5a3901f917371bcef2d6a2a176cba2daa7f674
+#EXTINF:-1 tvg-id=\"ELTV生活英語台\" tvg-name=\"ELTV生活英語台\" tvg-logo="https://cdn7.esnad.dpdns.org/510f4e6d13626924853cebd2900248d2b7dfb53b87541eb46814720e3a89964e224786ba95e2ffbc218355de940d650ce8038dd2112a85be3cb8a7c515ce5d0789fe9618d178ec8cae11465ae4fe5ca8ef2c994b92a43b544d0cb3019dcb54dfebe9e20b1591c9c8e45a87515c0bbef9" group-title="儿童",ELTV生活英語台
+https://player.esnad.dpdns.org/player/cdn.php?id=106&token=5b153857ce7e003cc99a8c4126b69113c9b51e1f5cf1c9cf99bbab4c7527c11b
+#EXTINF:-1 tvg-id=\"Nick Jr. 兒童頻道\" tvg-name=\"Nick Jr. 兒童頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/77f250ee13c016e9aff4bf6a1e0006d7ee9571182d5b804a7702c351038d5b79cf8d85748abafd12e616c69651ddbb48ed74cba54d165e1607343530971c32dfa863c7dc24b896e27724c832c9f260f4f14bc6e687f80618fcae6147ac4cb3c483fca987a117fb04707a1f6c0a886f50" group-title="儿童",Nick Jr. 兒童頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=219&token=d70a1ae4feec71803dc20b2095f35ffda2596c3dfe72fe717650e5a491b6d57e
+#EXTINF:-1 tvg-id=\"尼克兒童頻道\" tvg-name=\"尼克兒童頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/477b974f316a020755454e005814b1173e82ecfe3e9dbe28bab962ac33211302e2094744c218dd4fd98861a24b1b658b97814028362cebb6f64f97a645f4f8ee34b05dddf20aa27d7b0b71b95ef1050b8589eb225690facd4e2f2bc66328d1c0f72e03184fb6e7d9017b74058b2ede5e" group-title="儿童",尼克兒童頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=185&token=f9bbb958463f75e2b6ee7a61029c4b90c3f40d632833e7b2f96bc896fdb7d60e
+#EXTINF:-1 tvg-id=\"DreamWorks 夢工廠動畫\" tvg-name=\"DreamWorks 夢工廠動畫\" tvg-logo="https://cdn7.esnad.dpdns.org/a5564b9369182e7246a2108cd3327bf5f967d42de83820fdc0202b752472895a6e7b25cd3eac658f1a52218570ebf5b728c69ee790e7bc0eadcc78cfe9591fe11e6dec7ac616c857bced89fcec33ffe70dddecd721bfdd1281621214233e94c14753639609ccc0eff5c8fe5b7e67b591" group-title="儿童",DreamWorks 夢工廠動畫
+https://player.esnad.dpdns.org/player/cdn.php?id=282&token=c12601e49a718725a99aca7f68899c2f486e16fed83a8fdcd0eb75bd81227591
+#EXTINF:-1 tvg-id=\"靖天卡通台\" tvg-name=\"靖天卡通台\" tvg-logo="https://cdn7.esnad.dpdns.org/fbc4780a27669ef6523257d927d8f1f0499cb812bd1b8bc1ef8379c78dbbf00d0f6e9514fc98383e391b01f54745b6fb3758676ca431e669bbde6998c47230ae6f4ed0d6554a8a8ada127dba0cd540fd7d4bac39556c2d918fd1251469f9ffd61d38d48bdfeadfece45632461fe67c49" group-title="儿童",靖天卡通台
+https://player.esnad.dpdns.org/player/cdn.php?id=15&token=abf53d0974cd2827493fcfe20484c9793bc7a03860f7d6480cf23b3e9d2e3e8d
+#EXTINF:-1 tvg-id=\"靖洋卡通Nice Bingo\" tvg-name=\"靖洋卡通Nice Bingo\" tvg-logo="https://cdn7.esnad.dpdns.org/d36ca26ecfa2a4e4fc23c9ef4ebca0761cc455e22aece26afa457c05284a5d6adaeae6295a77d2379e94ed2b792a50d5f0e8bfad0d1e31bdf371c6d55c81095f9674823c10067992750a66e2c5848cca4bfcf9bb04353364603e64ec6bb03f46f56ab90cc746b157d6bd75a98a928ad4" group-title="儿童",靖洋卡通Nice Bingo
+https://player.esnad.dpdns.org/player/cdn.php?id=59&token=0af843326ba3106de92ff69a1358b974dae16089fc75f2baac7b85dc6db9997c
+#EXTINF:-1 tvg-id=\"MOMO親子台\" tvg-name=\"MOMO親子台\" tvg-logo="https://cdn7.esnad.dpdns.org/7250c6e975cb0c661df0338320e6ffeb523eb3891400acd47006b8ec7b18ed14770d4d235457d3dfa68035136edf33c7fc98c8db820532e0911f061b69ff9281a2bf6225575b48f8ae24815896d898ee5d8789866e37cee247cc1d9f9e3c35c6" group-title="儿童",MOMO親子台
+https://player.esnad.dpdns.org/player/cdn.php?id=231&token=6f6ba1b7131c94dd91d9d521cb09deef99478f996341dfa150f19d297c2b66a6
+#EXTINF:-1 tvg-id=\"東森購物一台\" tvg-name=\"東森購物一台\" tvg-logo="https://cdn7.esnad.dpdns.org/d1b3aabbb8143212d0b15b1d567c9bc818fd9da324bd6239121435fc0bc00e46ece2c26ad2f4936deeafc5badb8cdb61920453e49dbb07055cd8b8a976612b081051d008f4b3451db81527b851715c72b03dc3596f591df3edb6e213fe231c46a571fcfb8f62ac2b7da23bbf88ee24f4" group-title="綜合",東森購物一台
+https://player.esnad.dpdns.org/player/cdn.php?id=173&token=67c1bde4595dd599c47e39204aeca2fa4b1daf45f313c3a42d3bbc50572c9155
+#EXTINF:-1 tvg-id=\"鏡電視新聞台\" tvg-name=\"鏡電視新聞台\" tvg-logo="https://cdn7.esnad.dpdns.org/e057d13409b9dd8835a24ac52eee697c19bc3b03cf57db33720e6fdea167d5a490bd9aeb3f54fec47fe636a4e39c94017253d2a5261b25ce577933b724f921f2220736ca8b35a230cbda61053490029939a2215aa2194dbfbaaeb13e56dbbe593e4736c25d6e0fdc2145f66a7b0b6eeb" group-title="新聞",鏡電視新聞台
+https://player.esnad.dpdns.org/player/cdn.php?id=268&token=67b44b40d687b4abba77a1ebfb1249050052d783a4ad32c482a73ce8f9170d52
+#EXTINF:-1 tvg-id=\"東森新聞台\" tvg-name=\"東森新聞台\" tvg-logo="https://cdn7.esnad.dpdns.org/bc38e5da649a9390d38cd7e466e0eb83b51926075f40a2602b02557062606a035723abf8eef23644e773225abd1b3353f6af89c18d572c4c7ab9492da7adabf87a5adfde1669054f64e2a57d6f27138fcc7ecc9d11d677d6ac982bdadee9fd3f61f7178957977c22b12290a60937fda9" group-title="新聞",東森新聞台
+https://player.esnad.dpdns.org/player/cdn.php?id=292&token=cf75315967281431b88953e32519bf52f47d886acac582461ddbceb58f60a26b
+#EXTINF:-1 tvg-id=\"華視新聞\" tvg-name=\"華視新聞\" tvg-logo="https://cdn7.esnad.dpdns.org/08d7b3fc1f6efacc96915cb524885430190429ce2e11a858feef9b40fff75cd48ef0abcde23e5db303011a22a2e6dcd6bf845fa9503d4b724f05e9402b8013883b1ea52aafee5400ee80c821d7e194d2c17e9fbb1562205ec44301e0cd05f76dd414c57ea4296d45713a17aad8900442" group-title="新聞",華視新聞
+https://player.esnad.dpdns.org/player/cdn.php?id=34&token=fa60d54e8dfffe063881dabe82f7e0a42cd3864b81af3f6f6e761dbc85677607
+#EXTINF:-1 tvg-id=\"民視新聞台\" tvg-name=\"民視新聞台\" tvg-logo="https://cdn7.esnad.dpdns.org/26d2cc161197d3e30d18011207c15ca602e7e4049ec2a09a0f4743211faf9a04432d5307365d0f83b3c9533f1969afeb49385fb2665436e1fd00cafcc77f00b8f7e2a44f89099f2c16358039bb88360d80e0b7f32619f7df0ba94291bc12f9b5ad9464d7f7583c5a6c53a5a6e5c8faf0" group-title="新聞",民視新聞台
+https://player.esnad.dpdns.org/player/cdn.php?id=31&token=8622b66e640fc4cf180f1c1d83bf55bbdd08c6d1fd451c7792f1f7f84eb3cab4
+#EXTINF:-1 tvg-id=\"三立新聞iNEWS\" tvg-name=\"三立新聞iNEWS\" tvg-logo="https://cdn7.esnad.dpdns.org/e353a992d67c101dc1185ef30ed1881ed38b3c506b7d3885e45fd4a66da252eec7e5cc7bce2fabf2040a067e7a44e06567e52aa00b1c9fb1adb9e73d7671205e28e104b632530f5ab07f578a8a5434c6368dfc5bb00333f4f26ce25fd4fe8f88fd9b9cb21fb97df4e5ac96cb2658a429" group-title="新聞",三立新聞iNEWS
+https://player.esnad.dpdns.org/player/cdn.php?id=229&token=2d21e87180502b80e4ef0be60b1474fd89c82891919334b8faa40e5cafd7f11d
+#EXTINF:-1 tvg-id=\"TVBS新聞\" tvg-name=\"TVBS新聞\" tvg-logo="https://cdn7.esnad.dpdns.org/3a6884cbbca65e7ae884783776c0756fc0f3bfa9db2582993ec57caea71fbdc228064f9b17aa1c0831108e216b66f276f23632e0fa4489d9f93e5873164ef1c41ee66cb079e7b5109264addcced6b570dc6d63948b7f7f7745c890241afbe61ec47dd9e0d36ec3387f752919479aa364" group-title="新聞",TVBS新聞
+https://player.esnad.dpdns.org/player/cdn.php?id=291&token=dbdfb7a3d917c20ca24a3d0b460f6f3a56b6073d4292a3bf68a6d10c857aea08
+#EXTINF:-1 tvg-id=\"東森財經新聞台\" tvg-name=\"東森財經新聞台\" tvg-logo="https://cdn7.esnad.dpdns.org/93e3c8c9c96fa46108c15cdb7aa48dfa226e5c98d10f1823b3cec108af9211250cacbecaf75754011b57c378a253a1973127dba23d098b4d719215bda45ff51fc86f2db2c7c851412991045e07ffd65b3c8e09177e2b0a567de830fe045122a98a982539d09070d1dabfae5a0ecbd8e4" group-title="新聞",東森財經新聞台
+https://player.esnad.dpdns.org/player/cdn.php?id=293&token=15b135523f9f81034479572d5962a90bf3a0f3806fb5a8795196856a667a9a1e
+#EXTINF:-1 tvg-id=\"中視新聞\" tvg-name=\"中視新聞\" tvg-logo="https://cdn7.esnad.dpdns.org/984abe0481a768364c419191e0d3a172fbc02e041ea89b319f41b025d3f92f42f0f5e86d0d66cb30399cbe053c47acc2bfd60a9f71f1884a05cc06022dbcf480118e4e9f916a629f4e78adc5305c3f1ac4adf477eefaf7d9322c66fa75f8299dcdbfb1a5b95de43e5e37132daa3457d1" group-title="新聞",中視新聞
+https://player.esnad.dpdns.org/player/cdn.php?id=33&token=202715de0419751b1e96cd2b06c753a13a35c11f31c3726409ef8a32bb7988d1
+#EXTINF:-1 tvg-id=\"中天新聞台\" tvg-name=\"中天新聞台\" tvg-logo="https://cdn7.esnad.dpdns.org/46469a24f22bdb9f800c8adce97e3f5c456807af5ad1919855ab192a1b50229b93d4ca95175d4ece56bf49a937834f24d52d9cbc5e3c75676a4bc51cb6b368cfb25bde5d4a8d1a1e85166ee56746934085deb37c7e4d4be06f98015f16b950342bb34a6b19f3ad44d58393f9e53ab005" group-title="新聞",中天新聞台
+https://player.esnad.dpdns.org/player/cdn.php?id=30&token=ca6a49e627dfb995bcd4b92241040905a72ed6f7c135f24fd094d0b44b109c02
+#EXTINF:-1 tvg-id=\"Bloomberg TV\" tvg-name=\"Bloomberg TV\" tvg-logo="https://cdn7.esnad.dpdns.org/930bb9e505e79e45d00c04a0d3768dc190d59f0fea830b143feb026387487fba8a2b948a7ceabbc40d7433397c0f8c33c80367ec649e3033d09e7455916e7a144856f02be48434279d8b0a84607d1f84d44eaa5199be610bca5dc3c29bcc9a24af545345020f6c76fd219f4d44d1033e" group-title="新聞",Bloomberg TV
+https://player.esnad.dpdns.org/player/cdn.php?id=283&token=95f5d5b99d458dc7d1c9420df139e9485ee5d9e313e5b6c27a9e117c307f4366
+#EXTINF:-1 tvg-id=\"寰宇新聞台\" tvg-name=\"寰宇新聞台\" tvg-logo="https://cdn7.esnad.dpdns.org/25dd9e73d63dc7894892a950a275b0defc34e5518e9738efcecb6a13d1155c20d4e008616b864f58dc9c264b2e94c89463096195fc4683e95e065d8865cea2b23487cd93cd8aaa99323ec2dba9edad9a4f65babcd4fcf3f60785ecfc5b121183373e0e98b9f3aee71e150234ba48937b" group-title="新聞",寰宇新聞台
+https://player.esnad.dpdns.org/player/cdn.php?id=36&token=61fa7aae00bad7b9bb815957ea0646618ba25cefcbb6207a24486206cdce01f0
+#EXTINF:-1 tvg-id=\"寰宇新聞台灣台\" tvg-name=\"寰宇新聞台灣台\" tvg-logo="https://cdn7.esnad.dpdns.org/97e42ae2f1a1cbc45e75359d6bc1ad1ac8712b060e3be60036ae0731adfdd64cf63f42ddfd07a7cc47d99109d2d181098a7c8a56a018fcb784533c4130016993b93720790b7f4434ffc087f23ddc94f497f2f4f0d44815b4cbf9ed7e15f93629cdf932a949b3c9e7c30987b1ddefed22" group-title="新聞",寰宇新聞台灣台
+https://player.esnad.dpdns.org/player/cdn.php?id=280&token=c6a996494590805c12ea9d1d242a6e99bfbd09a1a023acf1128bd8d1b093a736
+#EXTINF:-1 tvg-id=\"SBN全球財經台\" tvg-name=\"SBN全球財經台\" tvg-logo="https://cdn7.esnad.dpdns.org/f58667e48533cb8b0171e3a253121d6bf89e8a41f3a08a0df213350fc24645c99f6c05b8a6a946fd49cda36525935ae668a4f1ad0a818d2afaaf3114f12242490e0bf99cb5335a5e3a21501e1941db2936151a5bc1534cbe1db8f183d86b4b7d95024d49d1878ac4576f481248b2588e" group-title="新聞",SBN全球財經台
+https://player.esnad.dpdns.org/player/cdn.php?id=224&token=f731e1d55ebf7fabb66f7a2130c67018ad0b065cd073714763c73c5d0b5ad2c1
+#EXTINF:-1 tvg-id=\"TVBS\" tvg-name=\"TVBS\" tvg-logo="https://cdn7.esnad.dpdns.org/c5b26fe73e5726d5401374927b8b34e433d6d80e4a0bf647ea084d98adcdb6b712a4921a37946b22e0c0ffdce9fb0c75fb55c8c8ab380c2cdf496cf07e875cf96c61f813e87150ca0388099bc42dad407ed21fda7614afe33fcc2cbc98e3476e75a67fe1058af7a319b00c66dbf970c4" group-title="新聞",TVBS
+https://player.esnad.dpdns.org/player/cdn.php?id=183&token=7a412fbe74e31dc5bdb2b7ab91bd204d5636cc1ae5becb4573ae80ea94ad63ec
+#EXTINF:-1 tvg-id=\"東森購物二台\" tvg-name=\"東森購物二台\" tvg-logo="https://cdn7.esnad.dpdns.org/7cc44e7082d1ccf2099cdeb71dd9bc9dde7dee18f93bacbe4c8868f84bc56e00c0a4450af9cd74a6b3534c693e1f5c6012473ee0e0620563265ef902c6294ce38919bd06ae6162e818a44559de7c6fe7b7c7a2025b3d6906e985ff202239a10ee934788f9d8f5493dedb1e75b5d68f16" group-title="綜合",東森購物二台
+https://player.esnad.dpdns.org/player/cdn.php?id=174&token=cbdc4b44add8442a2bef5ca14cdd1c10b927968109148f392fb32ea3ed59c45a
+#EXTINF:-1 tvg-id=\"民視綜藝台\" tvg-name=\"民視綜藝台\" tvg-logo="https://cdn7.esnad.dpdns.org/e15ba98bb9290ba5af4a511a3459cf191e10a06a3c6b0cc7385885d30824694777e370e4d6f3a00b018ecc4c6c9d6ed70dfeed0a4fdf22d8bb052cd5c276819ba4b7ec42cb8fdb3c276a5a603c31d1259294c78ab91eff01d5b0b89d32e69abd7e8910b626ee546c5b7498221728db07" group-title="综艺",民視綜藝台
+https://player.esnad.dpdns.org/player/cdn.php?id=16&token=3e13bc8731f2ab543d8df86e3c3fb0fdffe770c0cb0b2135839a9c98c59353b2
+#EXTINF:-1 tvg-id=\"豬哥亮歌廳秀\" tvg-name=\"豬哥亮歌廳秀\" tvg-logo="https://cdn7.esnad.dpdns.org/43d8559eb3835ad7b6714673a6428f2a37b764ea39968816f0955cdaca0dc57fc583aa604bcd05ff161129d2ef4b69a938a9eff5054f43fafd77ecbcb4417131bd8fe2665c8ef6051477db150fa5ba5637400c863ae4b8c8df2766e18733806903547257e17c89fb693bac15730e7791" group-title="综艺",豬哥亮歌廳秀
+https://player.esnad.dpdns.org/player/cdn.php?id=113&token=8eb7197b4cba77107c62de17606bf6d9af2faffe47d75ae0b98fae03353c0276
+#EXTINF:-1 tvg-id=\"靖天育樂台\" tvg-name=\"靖天育樂台\" tvg-logo="https://cdn7.esnad.dpdns.org/85f6fe9beb025a1fba0ec8516d2b30349f37260b1774529266105643eef6f86a197c3d3a0ba6b32810d4d625419ac2b9ff226767f902f337a0f990bd8cef21d3d7522e614af8eb3298ea641441465bba286c1223aabb9790cd6113498f6bcd293bc7bfdec5f7515bedeacaa68f9fcf78" group-title="综艺",靖天育樂台
+https://player.esnad.dpdns.org/player/cdn.php?id=83&token=516e127bbf21886500e9afcf264d69f8984750eb584b4d7fc2341fb56ac0e30c
+#EXTINF:-1 tvg-id=\"KLT-靖天國際台\" tvg-name=\"KLT-靖天國際台\" tvg-logo="https://cdn7.esnad.dpdns.org/8bb07206a840f1e2ed3c9c23fcda17d241b17751e3da71cc4e62323017094893126fbf38b7a7da50d089ba1868c9b0faae3c78a8985212da0a1ea5b6094a1568935e305e0cd50f19d6c4cd67d292ddd727da6dd3fc546186cb63daeb4cfd8b871c94b41bc31daf2f3d5d1161ae41bbba" group-title="综艺",KLT-靖天國際台
+https://player.esnad.dpdns.org/player/cdn.php?id=84&token=f463640f5811e3c939e3dd046ba2ad7198719fed899afbc68606f35477bdcd55
+#EXTINF:-1 tvg-id=\"Nice TV 靖天歡樂台\" tvg-name=\"Nice TV 靖天歡樂台\" tvg-logo="https://cdn7.esnad.dpdns.org/2859af8ef55c9b4e19db843315850a72f777729b4acf18c5bb1661dafa97fe9f7ce40077d5fb21a6420a90c9ef744436fd16e4b0b36356e27f8450bc7c96c82f191e816193b5e5d78b79cad91779a2720ac0ab54aa03f7fbcd855c0ca28f8fec8e72e4ed9d421b5214e2ff76fb62794c" group-title="综艺",Nice TV 靖天歡樂台
+https://player.esnad.dpdns.org/player/cdn.php?id=119&token=250f7e9c0682ba06411fb3868a3463bdbbd192c269b22a75070ff5a6666d9eac
+#EXTINF:-1 tvg-id=\"靖天資訊台\" tvg-name=\"靖天資訊台\" tvg-logo="https://cdn7.esnad.dpdns.org/8880ff6399efa0590949c2390df3ab93786c9bcca0ceb5dccff2aeb3053d0b2b7b1b3dde0a6e1cb16d12676778b8438d9cf8a0256a4d142869b6e10bb61a37185ad968c10aa156a267e1fc46537c76b2c82d47ab39c0fac10e715f0592209b439db7678e3523da8c6eafb19c3324ae11" group-title="综艺",靖天資訊台
+https://player.esnad.dpdns.org/player/cdn.php?id=88&token=3354fd39e12b3f3489c82eef55ea0c35f433cf323bdf898f7a645462c227ae83
+#EXTINF:-1 tvg-id=\"TVBS歡樂台\" tvg-name=\"TVBS歡樂台\" tvg-logo="https://cdn7.esnad.dpdns.org/77bb61d753df9fff750c0baa1563791d23c0d2ac23b1d4bd169359a35300aaacd81e4b2864ee348d9d0b6b3b0f88940f1e53a917e9e86ca3ff5bc9d3215dcb294ab5495811a264e114ca9a51f95fee46d30f56cd889981ed4b1fa9d9276d350dbf5e867d406e73acf0ddec1d6fa02cec" group-title="综艺",TVBS歡樂台
+https://player.esnad.dpdns.org/player/cdn.php?id=184&token=b7bcde9c85f3057e2d49b99ff4d412f013ecd747c4515534ec07a9e5bea0648c
+#EXTINF:-1 tvg-id=\"韓國娛樂台 KMTV\" tvg-name=\"韓國娛樂台 KMTV\" tvg-logo="https://cdn7.esnad.dpdns.org/1e65b513858a8ed5c441f1b65f1a57e4648a008d21a21768f3e307706fda5cf0ac9548c48c0813a424e470fdfca7dd1be3d0866e1995c570462f6e3849921326a8e0fa6fc398c2c2019b29dc54a4f8fc65aaa1598380a77200a78df99b74f78c585efcd27919250fb4c3f6f0a9517cf4" group-title="综艺",韓國娛樂台 KMTV
+https://player.esnad.dpdns.org/player/cdn.php?id=446&token=8533b51b959b6a3161d73fedc04b39ce4a39c6868628ce98c22e0584a0167751
+#EXTINF:-1 tvg-id=\"ROCK Entertainment\" tvg-name=\"ROCK Entertainment\" tvg-logo="https://cdn7.esnad.dpdns.org/f5e7080258add8da3d77a8c954b7acc4006b7ef529c671b120300477e711321fd227a62df16fe40fb04ac48678dc0f989a9336c395644f723c21f399aacefe9602cea6c1667c31b0cfa5879e6848c791510f9a84cba54cddbf8d16577cfa171723de45cac2e3a6163d3942698af99508" group-title="電影",ROCK Entertainment
+https://player.esnad.dpdns.org/player/cdn.php?id=275&token=4121580a8bc409726afa6040e5ee8ac0ab6c7117b8eb785d167ae9fd63de7140
+#EXTINF:-1 tvg-id=\"Lifetime 娛樂頻道\" tvg-name=\"Lifetime 娛樂頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/8b253ec8f1948e19dfdcd46d8f0f5bd882006428cab00b316cc46a6f106192509899db2100fa05ea4bf1e598740491987c9b88d889f20fbe25d32ee9761e513f14ac0804fd039fbf8fa0cfcae22b83ab26720407d306eea4a2d65ff5f1ee4e652b0a0b16f125c1770e9c3aeecd48a426" group-title="综艺",Lifetime 娛樂頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=217&token=9dba914ef06da0a232e505983b106b4a1aae7804bcdd4bfeb87a6dab90a6266c
+#EXTINF:-1 tvg-id=\"電影原聲台CMusic\" tvg-name=\"電影原聲台CMusic\" tvg-logo="https://cdn7.esnad.dpdns.org/db7bd1f321030637f26a7041510e328b584f69e54ba0596f2bd2f6432b05dce38e842de69bdc1185874ef3b840dfaa864f75738b710754be156597c01ba309815fe7244642aeec89db4c39d21e022fc9a08dd815ba3df5a0ec54d8f04a198a25afae13267af825c80f018750440a7bcd" group-title="综艺",電影原聲台CMusic
+https://player.esnad.dpdns.org/player/cdn.php?id=218&token=50e378c6f7e6c425d2578e6aedf173464c5b77f0cad4431bfaa598b35b715f12
+#EXTINF:-1 tvg-id=\"TRACE Urban\" tvg-name=\"TRACE Urban\" tvg-logo="https://cdn7.esnad.dpdns.org/ad163885522e72c4e1c422f9ee25c781eb47b6dbff6c29854c1c5b4f0682c31fde349c9f0e530ffbfbeb51e04e6c1ea660cd66acdb8a3748366371dc0f9b09dabe15e203efa1d06be8d4e0e303a92caea6b9dae2a88c21843ee0581711cbfb0a84c9239d36869bb7e273d69dca77ced5" group-title="综艺",TRACE Urban
+https://player.esnad.dpdns.org/player/cdn.php?id=78&token=caa3a53cd1c781b27adf60ed9fa1ef3a13efa2e9cb88b01f4c3a959db7725a9a
+#EXTINF:-1 tvg-id=\"MTV Live HD 音樂頻道\" tvg-name=\"MTV Live HD 音樂頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/fb0613d922697de36eb1a68eab66b870962e1f581b2da8fdc1e530627ca4f6a9b2bb886d62d53da61596a3c3ae40da1990b4eb115feddeaf39b8bd73d88c87d3e2f0cd2235b2089c6ef169b1cc87b59578568cc310a269f1de10e0f67f3cbdf310c83cea23119e6e50fcbccf18b1e402" group-title="综艺",MTV Live HD 音樂頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=213&token=83ed4a5296878b944c22b57e7ad54b47b3b749e1ddb4175dee092d2aa38fee4d
+#EXTINF:-1 tvg-id=\"Mezzo Live HD\" tvg-name=\"Mezzo Live HD\" tvg-logo="https://cdn7.esnad.dpdns.org/0ea457db4179d785b555edc6939b14078620726b37aa7f9b35373a5c24c01a7bf6fda7647d28cfe86c190a6004502537a0a2e9e262f3f19ed7276c95c0a9263a5e8753f2af496c937684ab342db2b9c454a7f9a079080efab79417e1b5fe0ea3518d22faf51fcd9d0ff05946fafe46b9" group-title="综艺",Mezzo Live HD
+https://player.esnad.dpdns.org/player/cdn.php?id=79&token=5acb8163c1b97263888ae9ec399b08a7d3cc098868e58ca55e30c023b4f4e5f4
+#EXTINF:-1 tvg-id=\"CLASSICA 古典樂\" tvg-name=\"CLASSICA 古典樂\" tvg-logo="https://cdn7.esnad.dpdns.org/74321dcdd54c9196abaa092e73cec2ba61530ec2d7555b0cebf7634f82b49ef7d18c7d116c315965129da8a7ed673727a631dbea019cad246a07fdce8352924e047749bac8379b29fcc8bd95875f4861be41ff2541806dfe1106bf465cbcf5e85459b01afddd8d4ebc08605eb8fd47fc" group-title="综艺",CLASSICA 古典樂
+https://player.esnad.dpdns.org/player/cdn.php?id=80&token=037fa625183d2b26d418804f03663421eeb54496b9134bfbab2d14b0afefa4d7
+#EXTINF:-1 tvg-id=\"東森購物三台\" tvg-name=\"東森購物三台\" tvg-logo="https://cdn7.esnad.dpdns.org/58d66050be03b5bd4b50ba4a86df35c0c62df185285d04f74ea74dff4ee8479b113b020c764aa87d1e6150bf07c70db5e2b4fd216f59d34b68170baf915f9962639a447afe1f5a45072626b32e52238ae238c910344c0b1a48d7f6560167a5a8c7e9a83ed3f4d8725b243e87aa41e9f8" group-title="綜合",東森購物三台
+https://player.esnad.dpdns.org/player/cdn.php?id=287&token=c5ac4fc8909c29fdf84fff9c341c0041abd86155ebb6a1827af320276de0a294
+#EXTINF:-1 tvg-id=\"INULTRA\" tvg-name=\"INULTRA\" tvg-logo="https://cdn7.esnad.dpdns.org/19faf3e1a0a081da9a6485fac3e365b79d1a9d507e83f2f4ad8627a2093d2986319ce61f65f8edabf16cf28d60656ae784de3e6ab6267f91f9b378dd2f058dc6a3b51687abddc5b09ff8ce0091ea7914518ad69140a0ffd87c8518e5cff96e4f" group-title="綜合",INULTRA
+https://player.esnad.dpdns.org/player/cdn.php?id=444&token=86a6e69219f14e8cd0bc20262978947d3e25bddca951f0065f9d8194dcad6374
+#EXTINF:-1 tvg-id=\"TRACE Sport Stars\" tvg-name=\"TRACE Sport Stars\" tvg-logo="https://cdn7.esnad.dpdns.org/e36928b5b0b76331cc1c320485107186d1f667f7e7b75fb319598f7cf241ade867a787246dc44ca10f117c64584a534694716e4a99baa4915d04af8cc3eb3c20975ea2e1e665a83ca28033f684f0b946e82ec0ee5c31f32a9aae12f3c4699e11fd10c04309f91ceb736834f8dea8cd90" group-title="運動",TRACE Sport Stars
+https://player.esnad.dpdns.org/player/cdn.php?id=57&token=dab1b6d466b9394bf2c51c9ccb2b089111920cca68d86b8a18afcf6f6da25c8a
+#EXTINF:-1 tvg-id=\"智林體育台\" tvg-name=\"智林體育台\" tvg-logo="https://cdn7.esnad.dpdns.org/144013dbd0849d5c9d612ea4e1d121c2cd74a7bcf6626d79d8e3d7d4d1fec306e322fd20d08239ba8f5618e711797735f6be1ba4fca979022ff08c8b35feb01569bf15f57c03d12e356821043cee33f617a2c275a4e8c84deada85fc22fed38bbbf96197ef2355fa9a11439ddaa00afb" group-title="運動",智林體育台
+https://player.esnad.dpdns.org/player/cdn.php?id=58&token=dd2402c8aba5904172ce2f713527cbdd14e332e0ccde076f36a7a7f4108c359f
+#EXTINF:-1 tvg-id=\"時尚運動X\" tvg-name=\"時尚運動X\" tvg-logo="https://cdn7.esnad.dpdns.org/4dac96f3b4071681e2dc2796a4818f4bbf019e0fe64a75c9d79d70efbd32cf6e8f67f42a3465ee7deed30f2b60c75ec6c386c7046a7d995fd71baa777ad7960801d96441b3617b891d2906373f8b391beb59b060e8218887f7a0c9f15ab8e357efe3ae495238fbd1c58f035b8c453710" group-title="運動",時尚運動X
+https://player.esnad.dpdns.org/player/cdn.php?id=69&token=1f65f85406fc2be55b4e8e5e6c834100746b77d4840b1f8e3b022e8575f5ad6b
+#EXTINF:-1 tvg-id=\"車迷TV\" tvg-name=\"車迷TV\" tvg-logo="https://cdn7.esnad.dpdns.org/a770d50adce7753fe10b934210b74dfa922e27d2330006bd02be90daf8f9472861b249a975267351b1cb4a61e8a1c541f9a685a0292f823c6bce5f0d3f5eeade3d6ac14ef78a4bdbad411853389dfec23e9fff0fb8b3880dc94bb8be3157f9bd21e3f7f01fbeacb538e68e5b57c6028e" group-title="運動",車迷TV
+https://player.esnad.dpdns.org/player/cdn.php?id=160&token=a2b060f1cde57c2bfd4fb1e3a7d6f828d773d48a25e32e0e5fa26c79a8b3fcf1
+#EXTINF:-1 tvg-id=\"GINX Esports TV\" tvg-name=\"GINX Esports TV\" tvg-logo="https://cdn7.esnad.dpdns.org/42e4a7c2f5722e4d965fcb23610d9487eff3c24e9a5a0f8e23a6e5b0671d4b261875cdea507f962804d549e04c38206101e48aa253efa109ae4303144d1e41738f9a0c0d38b123d3504fa10f92a155083f7afe84e1ca3001d064bb6a289918402eac53d7f9008dfa20ef7cf1c00c4e73" group-title="運動",GINX Esports TV
+https://player.esnad.dpdns.org/player/cdn.php?id=179&token=6d9b948e4652902ed634518abbf52d460b54da517e02223333370aeaeeed76bc
+#EXTINF:-1 tvg-id=\"Pet Club TV\" tvg-name=\"Pet Club TV\" tvg-logo="https://cdn7.esnad.dpdns.org/6d9367ab4a130614460fb657330e2535dfb8f2abf42ed659edb7144380aab0dfe9a919be7dbad384f2efe45de5ac0b6f7d3161476398a5c4e07bc46aea4fad46057a1a4d11b342824c4bc63a51b4bb1cc1901792386d274e6e99087345736f80b39f5f8e218e8325c7fccb2fe23b6ba3" group-title="運動",Pet Club TV
+https://player.esnad.dpdns.org/player/cdn.php?id=464&token=65e4ce0889b8dd9f11f72b81a9f29482c9c1836e08a344c7767044a425efd1e4
+#EXTINF:-1 tvg-id=\"民視旅遊台\" tvg-name=\"民視旅遊台\" tvg-logo="https://cdn7.esnad.dpdns.org/e089c80c5bc69f33015345d8fc65a15d3ead066676e8f58fec8381b33071dd946387ae555430b42feae5d57b9d10e297db7f29df51a421e0ccd3fd80b6ed5eec25cbe747d08af61fda913a008dd4a8a1afed8110871318857edcf93ca603c858613167d048e2bf2880388c093c8fdf3a" group-title="生活",民視旅遊台
+https://player.esnad.dpdns.org/player/cdn.php?id=61&token=c58dc854959d35e2d1fc46e05f8e95cdc454f3f36a8eb5daa7bf0a292f863570
+#EXTINF:-1 tvg-id=\"滾動力rollor\" tvg-name=\"滾動力rollor\" tvg-logo="https://cdn7.esnad.dpdns.org/05b93737bb28806afd90e91f5658622bf5cf9a23556a5bd7bb1b881e79d451cbeb3dd19de325166b7be626d6bfd491b766db214b50522133e75dc11af968621e170cbbb305d078ccb20bd4d8aefcf407617d00665b0d96223429dbf79c1418466cb382f019d4659fbb49e47786a257c5" group-title="生活",滾動力rollor
+https://player.esnad.dpdns.org/player/cdn.php?id=249&token=b62077757eeb823ff124048425184b542ba10b9551e084ad851758693701a253
+#EXTINF:-1 tvg-id=\"亞洲旅遊台\" tvg-name=\"亞洲旅遊台\" tvg-logo="https://cdn7.esnad.dpdns.org/a4b4566679794e5c4cec4609920c870239a871a7c3c0fb4d36bedfb30d706cb5e69a04b64fc49aca1a0786db21850ae52b12767e72bee304e77d909acc9411e5684d36e27372d34731616c32e4643bdc61e8a719fac791534dfc47379e1ae830c3344512ed2d34e9a38f39313cca7138" group-title="生活",亞洲旅遊台
+https://player.esnad.dpdns.org/player/cdn.php?id=250&token=248bde0e4f59a0f39c014765af57eb2651146246069d7ab803b8cffee61ea235
+#EXTINF:-1 tvg-id=\"fun探索娛樂台\" tvg-name=\"fun探索娛樂台\" tvg-logo="https://cdn7.esnad.dpdns.org/4c273b6f840ac5a2f08b8a1e9b667ffa9c12e548c8e0ecc1ee8cf6b1c7ebf076290866e7c0210881cdcc5c15ea643caa8e46db6387f5d982411bd33b462c36b1ac20095fb430bfe45bac1673ee0c7cf5458618140f01cf6ee3d76ed6f51d5eb805bd845f20ced790734147941b956e36" group-title="綜合",fun探索娛樂台
+https://player.esnad.dpdns.org/player/cdn.php?id=274&token=c4c3eef9dc23fe1291d62ffedfdae1f4149401286b28773ccc2a823126db37b0
+#EXTINF:-1 tvg-id=\"幸福空間居家台\" tvg-name=\"幸福空間居家台\" tvg-logo="https://cdn7.esnad.dpdns.org/0edbabaeb30d943c292f6f83ef43cc31d8d72369206a8b3edb2781db03a9f5d2666e8724c51b5680bf072d8f2e506cf4059d7da3191ec594664d3cf1b5102a8ef00d487028ba2c7d86ff6bf52281efd80785b80df0a8fe666287edcc6ad161e33baee625928bc7d4254a76b1fa0f5775" group-title="生活",幸福空間居家台
+https://player.esnad.dpdns.org/player/cdn.php?id=168&token=883d8581201c46b348dbb447fe22a1e100181ed9596a1efd687175907dd46451
+#EXTINF:-1 tvg-id=\"Love Nature\" tvg-name=\"Love Nature\" tvg-logo="https://cdn7.esnad.dpdns.org/0459d8289346f5c1834a2b5e5b42fad29581aafed2e3ccdb6e26fd2ba7cc8c1a70dcf3fe44513f7de6f34fa11927dd18ae9c72b96470604923822fc3eebb13a66919c91ac8ca57167418c561af125d410621c72fe3a4cebf0466f019f7a429fcffce88f2d0407978de2a5caf62f22872" group-title="生活",Love Nature
+https://player.esnad.dpdns.org/player/cdn.php?id=139&token=7a5db9133224d8b62aa4db77ce392e46027473ca862b0a1a1da84bb6580ccbba
+#EXTINF:-1 tvg-id=\"History 歷史頻道\" tvg-name=\"History 歷史頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/636df3bc512a6641a8dc52f88bd154a61d86a435a1a0a0ca97f4b534cd627bbded0be6926ac5508d0ad01b263a0bf517bbcc952d3eda92b43c294663e7a847c43916c05a672e6a88879f9f1e82b882497676439791cdafeab9687495759481b18fcb95141a79fc86d541d54238690eb7" group-title="生活",History 歷史頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=214&token=e7c8bba0dcc54fe5e95720046fc9cf44fb516bc5fd33349c53068a33b9776be7
+#EXTINF:-1 tvg-id=\"愛爾達生活旅遊台\" tvg-name=\"愛爾達生活旅遊台\" tvg-logo="https://cdn7.esnad.dpdns.org/757a2e3a8f9a3a308c8085ee5bb7caba007a94d7b8c6b6df371a4729b668c3e2f8e9686de7d986087016e63c27034835340edd5c266369b911b0ed344909704cd55c95ad1ab112059774aebedd1eaa4317f28a06850e27a518df0d963cf8828d952dee2b3f476ff91c94f235647a20a2" group-title="生活",愛爾達生活旅遊台
+https://player.esnad.dpdns.org/player/cdn.php?id=237&token=69a77c9fd39cd21ebeb119871077115cde5191acb20e616c56518024928319d3
+#EXTINF:-1 tvg-id=\"LUXE TV Channel\" tvg-name=\"LUXE TV Channel\" tvg-logo="https://cdn7.esnad.dpdns.org/995ca51e5a37b92b2c0dba48306795d4595620be728e48bd392a502d62fff5c38951b2bf99bfea939f8f7f17db625f7a479d1aea48857f9c19747610f2ff50326c39889dafd13dd6a6d8fc8c59d7d318aecad9d2e711270320b39195e9215a913c4b68857c3270072464370464b28fb4" group-title="生活",LUXE TV Channel
+https://player.esnad.dpdns.org/player/cdn.php?id=175&token=52647c69042a49ba01677b1bce86d961989cbf7dd3779d556e50592b3f9eb5ce
+#EXTINF:-1 tvg-id=\"TV5MONDE STYLE HD 生活時尚\" tvg-name=\"TV5MONDE STYLE HD 生活時尚\" tvg-logo="https://cdn7.esnad.dpdns.org/7c49cbfb858b7f4007d7fb2a40200beba858e1456a259e82a6eb3afc9f5b08d19a468644c98aa9e8e49470044aaf10eaec6e96b88c154274a0e2cc571928aba9421c0b477548ebfe9bbf438dfbe7ba75bed8feeea6a9f193f28d2719a2383fb7237c4ba441ae5758f9be94d1df0e926e" group-title="生活",TV5MONDE STYLE HD 生活時尚
+https://player.esnad.dpdns.org/player/cdn.php?id=178&token=48c77f6f040ae1041305316ca7c7fe538fecdafa5b4a2decc6695ebc857e8a88
+#EXTINF:-1 tvg-id=\"MagellanTV頻道 (麥哲倫頻道) \" tvg-name=\"MagellanTV頻道 (麥哲倫頻道) \" tvg-logo="https://cdn7.esnad.dpdns.org/a18d81550e6206689acad045ab5df7f126eac640ce00199c831b1dd7042a7a82a4cf9771af0a1b6fdbd79676692ab35655c375812a63d3d07c08adb345fdfe9498f36388bcd214927fd69218475bb1c2f3ff5b2cf37355d26359d27d143c53d1" group-title="生活",MagellanTV頻道 (麥哲倫頻道) 
+https://player.esnad.dpdns.org/player/cdn.php?id=450&token=3d870565dd546528e834ef2ae1523505b83fe1a06ebadb9fe68ef28e35ad824e
+#EXTINF:-1 tvg-id=\"公視戲劇\" tvg-name=\"公視戲劇\" tvg-logo="https://cdn7.esnad.dpdns.org/5b8d1d6a2de6b6e4bbbeffebb16b4b6dd2b4a40c8c6241847f1d6fd00a8069cfa329e2668cee18713a756581283fe0dc8c98c980953d76c12f766ba4e2f44af18d8e3944bc3c8578ea52c8bb9078d22d8603e427c3af0d6a4f5bee596c680e83ca10123a68e810ed6c9a78a2de8cbc6c" group-title="戲劇",公視戲劇
+https://player.esnad.dpdns.org/player/cdn.php?id=7&token=8e9e13ad2108c87788dec83c9dddb1b39ff35c61ecf94ae1a94c5ae2e5630027
+#EXTINF:-1 tvg-id=\"民視影劇台\" tvg-name=\"民視影劇台\" tvg-logo="https://cdn7.esnad.dpdns.org/50104ace0ecb360010d2f8ce71a17ebbb6ae0dac1219e5eb9e5d95278c9dcb35f480887413c4d0d18ad2d1132681345cda85dbea4eaf8811b0dc8de0a0a2d8abae429f0a8e3be8b81ceac5c555778bdf7fdd35d291ce32d540886bf2cb3f21d4e40ec3470419d25b893329ef74b07331" group-title="戲劇",民視影劇台
+https://player.esnad.dpdns.org/player/cdn.php?id=24&token=d3f9c74e32d48ab5a70ae81e2911d2991b44580e27f8c9c7e601010cc8eaf3cd
+#EXTINF:-1 tvg-id=\"HITS頻道\" tvg-name=\"HITS頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/7d4327f9a3655e1ca7657c92d3aba667f61e303c5b94adfc9f37738b83c5cfad8790acad76b6baeba0499cb51b636ea7d6ff01647777b6478f4f2d7d0529b4a223179f74b8084432162602a6b728de60b3b019d73e651e8500da6a3eba95af1b7aa2bc0787a2476facaed7ae9da997f5" group-title="電影",HITS頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=186&token=2d4259561cd2205ab402b22bec1fdb12ce49e844ee464c6b5beb1672127c6024
+#EXTINF:-1 tvg-id=\"八大精彩台\" tvg-name=\"八大精彩台\" tvg-logo="https://cdn7.esnad.dpdns.org/70763957f97e71caed34dffe26a83629581f4ef9ff2bddf3223e5089adc156d95cfb8374657ac68b02b917a9772638fb47d92ebfd29180f1d8d9c9833563da2681b8be5bb92724a6f2b360685af42b509a8e35e13afc47d80ee396b6c1f26a761c3a9676d534205ae6bea22c3b1bec0d" group-title="戲劇",八大精彩台
+https://player.esnad.dpdns.org/player/cdn.php?id=172&token=1945c6d68b37b17ae7f902b8e71de0acbda646a376b2ea674010312699edca2c
+#EXTINF:-1 tvg-id=\"靖天戲劇台\" tvg-name=\"靖天戲劇台\" tvg-logo="https://cdn7.esnad.dpdns.org/3b464caeaa8ca42ede4546d043b0a66748837badd91e323fdd558100d596b764ef6748b64881a8da917400e75cf9f90f21fc2c3195d056390fff4ce18b7b6f9da9f7bae7b08e72fd1ceeeb91bf583841a7f6587043aacafe8393d7c7af7cf8504cf4cf544bd6d1db4d27525e880f659f" group-title="戲劇",靖天戲劇台
+https://player.esnad.dpdns.org/player/cdn.php?id=116&token=64ae667409cb3e9741a6ec64f7665d721cb6844e15e23b2df9a12a4b5facdf34
+#EXTINF:-1 tvg-id=\"靖洋戲劇台\" tvg-name=\"靖洋戲劇台\" tvg-logo="https://cdn7.esnad.dpdns.org/6b90002d9ba008db666149cb68150c89a2d73ed7ea65b52d2b3afb7291102e25f13627bd590b28e8aa090a7cf09380d8b61bef23bf98f3bca53a5730718772a7bf74d65059df0c71508e308fd89869d03c9030860f45df6b8f05d5063dd20b9f34882b7052ab0eaf5f2a976c68c9161a" group-title="戲劇",靖洋戲劇台
+https://player.esnad.dpdns.org/player/cdn.php?id=118&token=0eb916af7be7c2642bb5aca2947d07be00a89e27c77505a792e5f5c96e984d15
+#EXTINF:-1 tvg-id=\"CI 罪案偵查頻道\" tvg-name=\"CI 罪案偵查頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/a0f1d2a1396fd69dc7a60557eb74082316fd28c16ae246b8e90a74431a9b5d0f3be5b5551c9e36c904169f3f46a4e8c121db6e2060147f47ed8c125cd3b74a8cd9b3cf13ece47f5bcb263841dfdc68210d91db271052e89b73072a52d751f627f7ac02809c6a56da74838577210987cc" group-title="生活",CI 罪案偵查頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=215&token=e73ba970a22815e6afd6e95e66c9afffc2dc9f73d723cd20f02d567c0c587eb3
+#EXTINF:-1 tvg-id=\"視納華仁紀實頻道\" tvg-name=\"視納華仁紀實頻道\" tvg-logo="https://cdn7.esnad.dpdns.org/a33fd6c33bbfe699bfc7834f876a43e86c5e692fe6213e1df419a0240b51f9e5f6ba3417103613706d2eec4ba516660ca9b193a20b3d66121604c3cadd8a7f02baafa295f727349bf225a4b0bc6ee68f09ff9921668ffeed3fc00cb7059b02b167f1e27b4827b9410617f189b1117acf" group-title="生活",視納華仁紀實頻道
+https://player.esnad.dpdns.org/player/cdn.php?id=38&token=c46dff61738222fb8946589b9a939a08d6fb735334aed8da7a613a154520191c
+#EXTINF:-1 tvg-id=\"影迷數位紀實台\" tvg-name=\"影迷數位紀實台\" tvg-logo="https://cdn7.esnad.dpdns.org/5316c2945978c31668278edd9fed21e64a48db08fca942f32b7ece3423a79bfb576f0eee136ca4be31216733ce96ad3a61f467ba7b6166a4e0c40553af3f540da09307920c354f3dbef030d4ed23f1b01ee7501d1614a9ec95eb56ee465b31249e87b58e80644b5179363718a7575933" group-title="電影",影迷數位紀實台
+https://player.esnad.dpdns.org/player/cdn.php?id=445&token=af4943c938b61ea0bf0473ebca70ab7548f4103a91ffa5911610fa6098e56e97
+#EXTINF:-1 tvg-id=\"金光布袋戲\" tvg-name=\"金光布袋戲\" tvg-logo="https://cdn7.esnad.dpdns.org/0713996f295b62677d8daf99cbd64a2ea613f92312928693b83a18a1c47ae6180e6e604fd1f9f27d37dc7ee92400918a1d608a8e370e9d51345a50010662161cbec9ad724fa95d2fdd3852a2262394c06620ad007ecf165fae04a2479fdbb777144bf8508e3d3ff89b233ce2e8c842c0" group-title="戲劇",金光布袋戲
+https://player.esnad.dpdns.org/player/cdn.php?id=236&token=ab67f30a3a2a7440763dca4a2f5078832df5470c92e31c028044ecdf3a078445
+#EXTINF:-1 tvg-id=\"ROCK Action\" tvg-name=\"ROCK Action\" tvg-logo="https://cdn7.esnad.dpdns.org/ada7e1fca2aa067050c388eaf26f322a0a8029f866615053d17ac3305f73ddb24db825055afe8f262fe81c1132290ae132fbf7e3cfb9fa88f4a768aa8bc8367902cf2b68ce52a3eb120a5005897d8382feb4dba83c578e91b02351ee19035ed0" group-title="電影",ROCK Action
+https://player.esnad.dpdns.org/player/cdn.php?id=180&token=8ce07ca23008260934297b9b9f2dc8edda50186b79de6b8a94857d079889b5c8
+#EXTINF:-1 tvg-id=\"采昌影劇台\" tvg-name=\"采昌影劇台\" tvg-logo="https://cdn7.esnad.dpdns.org/ccc95c04aa1c4cf2015dd34c5d9ad652213534b2052f97f3d4a8de1ddbb6dac18286c43b351ee808a4941a9e58a617943a0581440ad4ede6957210416a7646c2589aeea2d8e9993f7baa39ba4967dff79543bf879b2c4870805c6c03a025f075116e103319f7919fa51a53fee4a9d321" group-title="電影",采昌影劇台
+https://player.esnad.dpdns.org/player/cdn.php?id=25&token=55bf62b62c93584143dd73f89ea187c6a6433a7b7f8a915e95432b5ca58f6f60
+#EXTINF:-1 tvg-id=\"靖天映畫\" tvg-name=\"靖天映畫\" tvg-logo="https://cdn7.esnad.dpdns.org/9394843ec74b3d5a538beee67f629d1aa61687fdad50b17d22cf94218d0cddb328707e498213ccaa47dfabf733697cb9caff09724d05fceee5df8b8ddacf882b731d37091b417ae33f60e5d9dbd6432900e56fdbfeb4e5e949b5982b786376667540de3d509b7a19feea63e9e4f46070" group-title="電影",靖天映畫
+https://player.esnad.dpdns.org/player/cdn.php?id=42&token=d73420728d1c1cce77cfabb55955db1d5cb8d4e644ee055299054596d0e900de
+#EXTINF:-1 tvg-id=\"靖天電影台\" tvg-name=\"靖天電影台\" tvg-logo="https://cdn7.esnad.dpdns.org/a0fce841337e8cca41284f89d131dd1d494a88e6ba04a3e2580e0a0f4bf130ff6168522f0505190fe6659a4d536c260e2da4415abeccf12e76c9fbf5bcc86efed8c666ee30adf0561ec18b4bb11154b9ac8eedb22f600683f3f8f035cdcb719e520ad3f7c3c32cfb0fff20356385358e" group-title="電影",靖天電影台
+https://player.esnad.dpdns.org/player/cdn.php?id=82&token=f059dceb03f7b6e95f3a6f9747239a5fc647da0a3af516b7df4447b411b41020
+#EXTINF:-1 tvg-id=\"影迷數位電影台\" tvg-name=\"影迷數位電影台\" tvg-logo="https://cdn7.esnad.dpdns.org/705715214b769b9b472a7c12def1b495cbb48b4a592d2f9c0acf2170deedd910581d052d36ad6196976a64ec999949da831717bd6f11ca08c2b42265c0329af5834ef707d1d0ab1a77da1adc7da0222b3cefa6128c5b29e4c875bf4defba7668d76eeb85ed53fc76d2a96b9ed1ebee53" group-title="電影",影迷數位電影台
+https://player.esnad.dpdns.org/player/cdn.php?id=40&token=b55b29359bcb0788dc87929df07e7017cf5d4b25f3c0fa9c7c3db02e38abc999
+#EXTINF:-1 tvg-id=\"amc電影台\" tvg-name=\"amc電影台\" tvg-logo="https://cdn7.esnad.dpdns.org/7ef1a9ea07e6f4da4cf5707c28424b3dc348d9e7ca1ba9fe49a3c50dca910cee3aaa50543b6e465bc161af2048bd0cd8ed0dc3b7207dff61f98d8a44c1fc298f50be23b422bc8c2d19f69cb3762ff456e778a18b71f99612d21e854ffcdc69e426a9dbb71851d9396c99cbc14758c256" group-title="電影",amc電影台
+https://player.esnad.dpdns.org/player/cdn.php?id=39&token=56862c3077a2ff4093d3a43cf63d9d9beac3faadb2d42a129cded3ab3eb1bdb6
+#EXTINF:-1 tvg-id=\"CinemaWorld\" tvg-name=\"CinemaWorld\" tvg-logo="https://cdn7.esnad.dpdns.org/cfa6f6e1971515d03f4fe5df0f80210bf6fbe3cfe7154a073dab685ad0ff14f8d9254dc3fac29f1c5ed2d7be6b1158f915a790e9673f9b4a33eaec90c82bea9ead11383f7f964d803ea8cc487e70d905622af82286f7f59d0bc965655129946f73761280a92ad63f4031e381e1ae3b96" group-title="電影",CinemaWorld
+https://player.esnad.dpdns.org/player/cdn.php?id=225&token=4d272624c4702af8435b1d37555ccde9d1a8305a54903ef74629876b7df759b6
+#EXTINF:-1 tvg-id=\"My Cinema Europe HD 我的歐洲電影\" tvg-name=\"My Cinema Europe HD 我的歐洲電影\" tvg-logo="https://cdn7.esnad.dpdns.org/f2e91ec1cad56fb609460f5de431b2ae333341eaccbec24978b8de7ef16e917bfe1383eb973f5ace3455eb71b7c45d4554894acac2caf84f1fb8e3e11a953d85455effac693fb168e7829f43c4fd7be0" group-title="電影",My Cinema Europe HD
+https://player.esnad.dpdns.org/player/cdn.php?id=463&token=f7768fdb2b311e442e6baeff2c03d1212d66644e4b71d968f94e0fa23edcdc9b
+#EXTINF:-1 tvg-id=\"好消息\" tvg-name=\"好消息\" tvg-logo="https://cdn7.esnad.dpdns.org/5ddecb2ea47cb87179e94c3e69e01093806bf76673587f60d648347d6d409c932dd6453765bd68b32ce3004f329b3dc4cc5b5c7ca98395bd512dfddab03cea34b82f15a777d22e15fa3a87c1eacc9174fae5a76a2b7d79bcd79469c0ffa497d2c392cbdd9c497efc5cf614a9b2e4930e" group-title="綜合",好消息
+https://player.esnad.dpdns.org/player/cdn.php?id=9&token=7ab7a5ee4bddcd90f0124b9b16ad842ceef9ed819b962668e74214bc5df11804
+#EXTINF:-1 tvg-id=\"好消息2台\" tvg-name=\"好消息2台\" tvg-logo="https://cdn7.esnad.dpdns.org/210ae14b614019679713f88230774cdc358e85fe4bc1ca5533c6d741219a7861102c3c5f0ccd526d496df518cb9e56f79d441b36c62cf91dea3467748eea2e8ff605af2250b81a562a3f1db365f89c187a0af2be4109dd88f1101ce84f839009b9a3dad9eb9052bfeba0ea0c314a090b" group-title="綜合",好消息2台
+https://player.esnad.dpdns.org/player/cdn.php?id=8&token=24864a244e82ce5b53d418243f233e205544dcc49c8847f24a680df372296444
+#EXTINF:-1 tvg-id=\"大愛二台\" tvg-name=\"大愛二台\" tvg-logo="https://cdn7.esnad.dpdns.org/f267c88985a0cb342d9b54ee5143632f88acc84af6bfa69b4dbacd595168c39d4b39871d2e006c8b9dafb18748d207f55321b0565b97bd6b57d64c1c62f772db4732877ad7cc70468a7c6e664fd6cc9688c4542b61fe681f134ff24e49d39b4631834805d5234230b9de8e9e2a4fb303" group-title="綜合",大愛二台
+https://player.esnad.dpdns.org/player/cdn.php?id=230&token=3ee5debf83b6a9faf67a785d1266d9078ac303678d1f079be2beb251f7f1c70d
+#EXTINF:-1 tvg-id=\"人間衛視\" tvg-name=\"人間衛視\" tvg-logo="https://cdn7.esnad.dpdns.org/73d05c3242e85374d549bbc1fdc9ea7c188efbe5ca1007e00125cfc8cb9402085164a9ffb8fc815138b0f8ee074bd9aece3eb0765d2ead81bdc4ae41902d8118624437b022168c22818b860f5ea020689ce65a6b8df87b3bc115408af6b45f57e5d6d9c1366fe065e82b7bcc1555069e" group-title="綜合",人間衛視
+https://player.esnad.dpdns.org/player/cdn.php?id=210&token=cbbf8bd334d98feccd8411de2fed5a5bccf2916567c2c7b8aa1d496979ef65a3
+#EXTINF:-1 tvg-id=\"NHK WORLD-JAPAN\" tvg-name=\"NHK WORLD-JAPAN\" tvg-logo="https://cdn7.esnad.dpdns.org/561be18918927d667ab981fa6144c7bc234cd78831bb61fa460998360fd626cfca0bab4ad7b5473fdf9e268d600fba984e19279d6203f334f48bfc614758419fea667dafe4773c72a8cd9bba9d606eb76fc7badc04bf0070310d84fc065527070a31d8e28ce234490db5a30bc2a2f1e7" group-title="新聞",NHK WORLD-JAPAN
+https://player.esnad.dpdns.org/player/cdn.php?id=461&token=9efd5258d608bb9f41bce70d39a8000d5ec5ffecb69f715ba6d7c545e69db0d9
+#EXTINF:-1 tvg-id=\"FRANCE24 英文台\" tvg-name=\"FRANCE24 英文台\" tvg-logo="https://cdn7.esnad.dpdns.org/c2b9cdfc29587d328811030c8ff74d30b263c02d494b4104b69da8555e50ca0abb044e24bd6d9ee7c0e0a6dcd83d9bec720a6949cee9ac7eb59295fb8d597ca677e3deed9c999c1bf9050012f70b3f98338cc491de31fc73f3e986dec6cb4c7e" group-title="新聞",FRANCE24 英文台
+https://player.esnad.dpdns.org/player/cdn.php?id=316&token=871b5e9469df0a27280d44cd3d0a8645bccabb00c0a8c3a5fca75e2c71c958cd
+#EXTINF:-1 tvg-id=\"半島國際新聞台\" tvg-name=\"半島國際新聞台\" tvg-logo="https://cdn7.esnad.dpdns.org/def1db05f40c0ef2769bf1b98e1d035136e81797de22e9b55c10b840b19a00af2b024676c5d5831467466fbd4b49d604e66a8bfb3909f456cc1609b25557b0e0523fc51564b3d4ded4c4edb5970955e92434fcb4b645ce7b6123bcdbf63c209f34fe96961dfbcafac70edee08d71b352" group-title="新聞",半島國際新聞台
+https://player.esnad.dpdns.org/player/cdn.php?id=462&token=b8abebc51ae319c35527c89b331344ebcc36e6e2a7494e20ead5ede1fbc131a9
+#EXTINF:-1 tvg-id=\"CNBC Asia 財經台\" tvg-name=\"CNBC Asia 財經台\" tvg-logo="https://cdn7.esnad.dpdns.org/17dfa531ae935015ff0aa50aac78b75e7f88747c3a130f2bd92a7cfcbaff5926c2c3a5c003bd855a447e9ae4ce28b537d059c012ad5d8bd1c2038f0d8b4a0920743d0d47a31391169f3642d72c8c5f852ce99a9f6a115ff25c2ac9de3434083079d05b4e7505eb4a59d61eb81b39bc63" group-title="新聞",CNBC Asia 財經台
+https://player.esnad.dpdns.org/player/cdn.php?id=235&token=076db342fa93e86fc08f9e5634ee7306ad73e8c09bb2f012dc5e60b62d4d9ab3
+#EXTINF:-1 tvg-id=\"DW德國之聲\" tvg-name=\"DW德國之聲\" tvg-logo="https://cdn7.esnad.dpdns.org/6a366cc067c0e5fc50955386f98e21df1906524ea53ed27da7b7d1cb18f80b8e99aa2ac307a34ed2b07d1e9999f35161c4f4f7aa2ed823627b826f9328af3cdfbe9a99a9f35f076583dd7c88516a8e6ea6f7421b76c758ae0ea1323a147bcd9c954304284fb7e5737968d55054b8cd5c" group-title="新聞",DW德國之聲
+https://player.esnad.dpdns.org/player/cdn.php?id=226&token=eed7f81391566dec55ff3b2d40f7cfbdfba657b43fca8e7870098aebdcea9a7b
+#EXTINF:-1 tvg-id=\"國會頻道1\" tvg-name=\"國會頻道1\" tvg-logo="https://cdn7.esnad.dpdns.org/a41020659744629023003ca0b2c75f577a200294e4fad644c5e339e2828b78e9dab76880258880671f5208b8b17758302c40c50cba5bcf923d0976b8a1064309536ec991549b4e86630bbb57d568155e5d2d0bb8a109e4697a72645f297692d15bb261238a863684100f591c3e0dd56c" group-title="國會",國會頻道1
+https://player.esnad.dpdns.org/player/cdn.php?id=170&token=5a336b5446b0315f696dca81ef9dae5f2bbb2c904ff4b13c982c024df5177afc
+#EXTINF:-1 tvg-id=\"國會頻道2\" tvg-name=\"國會頻道2\" tvg-logo="https://cdn7.esnad.dpdns.org/5a8c959e122665bc9cca54e90da0333f4497095ca0602c647be23291274939371a58b0be53f4018ff06d4d9b77685f9544659135d78380110bde2fad777199737ba06d5373f9954979ef944aaef645fd583136ba82b5434ba34b438124ba74598e8b58907a92a97c566724e25167f165" group-title="國會",國會頻道2
+https://player.esnad.dpdns.org/player/cdn.php?id=171&token=28069eafd31f593aded1f503b3c0d5f26e173c9d16992751b155b5f181be03f8
+#EXTINF:-1 tvg-id=\"TVBS綜藝台\" tvg-name=\"TVBS綜藝台\" tvg-logo="https://cdn7.esnad.dpdns.org/45c550d93855f25348536f6d82ad4a6024da4f3ae015099434e90373fc77311532f8227f264dee0e642b43a9145fff43cdc7e8422c5755b9463e2fd805c4c19ae18a7c351027f30da68c4669150112eb587408f2d3dfabfaf352541387289f439e40720fe46272256d17de2f096baa3407c87550695dd7c838776a9f1a9a0643" group-title="综艺",TVBS綜藝台
+https://player.esnad.dpdns.org/player/cdn.php?id=284&token=07b3251011299592ef3ab3a700dda95422ee0e73cbe28c0d662cf45df549ee54
+#EXTINF:-1 tvg-id=\"TVBS台劇台\" tvg-name=\"TVBS台劇台\" tvg-logo="https://cdn7.esnad.dpdns.org/db40f83bbb827819b8ad014d5d210e18c6d9c1c0769acdeda50030f9bb7e313b8d2b4a92755942c56c9fbfac3a8fe9c20076429b6527590a956bc8bfad30ad3b1c4d16b350f4f0fb20585da1d92689c8228ed812ed9ea5f3d22dcc443b54024f145fc5c00d888a7acaf68db30e1f2dd3a697505fa99403ae363fb98bf1936504" group-title="戲劇",TVBS台劇台
+https://player.esnad.dpdns.org/player/cdn.php?id=285&token=19afdd47fda555d8ec80aae9d9b1bc6f6be34cab10c667ca7dcc76f06aaaca3b
+#EXTINF:-1 tvg-id=\"經典電影台\" tvg-name=\"經典電影台\" tvg-logo="https://cdn7.esnad.dpdns.org/efa969eb63143b3835ecffbeaff4f6f3fd279005f1de0b64fab3afd34fd675dbdbe9c901d74f4b1c1fa8d8186b18ee7bfb3ad081a08d066f9d71b5de82b4367358bb0e471e9411073b38d37a53333e0b4d0320ee33acca56eddfae6ec6c0c10bf48f21a38c967e0077b967f85985e4ee" group-title="電影",經典電影台
+https://player.esnad.dpdns.org/player/cdn.php?id=201&token=998e36c4814b8c1ea95abfbe3634c3aaabec27f6fe6f4ea8a50e77b033bdc3f5
+#EXTINF:-1 tvg-id=\"經典卡通台\" tvg-name=\"經典卡通台\" tvg-logo="https://cdn7.esnad.dpdns.org/187e85d0c25ba7479f14ae45479c4ec5c707154cf79712d35707909e14d49291323badfcf2bff5a3cafaa88c59c55ab0bdf62256625e70c2500fc165c9fd6b563b107ec667c1a7b2da577d3a95d05986edbb72b3eb3ab18a72551c063d71fc1aa8d028f385c40a4c6245a90d2e93de61" group-title="儿童",經典卡通台
+https://player.esnad.dpdns.org/player/cdn.php?id=202&token=c9f4afcd768ab72d354f6f98c9a6e9d169c81e32d66cae975ac131cd4c555aa2
+#EXTINF:-1 tvg-id=\"精選動漫台\" tvg-name=\"精選動漫台\" tvg-logo="https://cdn7.esnad.dpdns.org/1434f8e660e95b77c16d13da8d4dba765a2a12dae5c08e2a49b2347325f922ec32d670841292652b4af212f0989396d88446dd173cfa13a29cc7dfbfadd3ffea607c88a42e6bce10ce3de18c77c6ed7323dbe3cc2663a68036f87f66e3d7efb74108041df53ecd5e27d2451871ccb375" group-title="儿童",精選動漫台
+https://player.esnad.dpdns.org/player/cdn.php?id=204&token=f8854c03bdb319c61c7fc69d42172b5ce8a0604eeb20aa49e6ff6cacba709e5c
+#EXTINF:-1 tvg-id=\"GagaOOLala 精選LGBTQ+好劇\" tvg-name=\"GagaOOLala 精選LGBTQ+好劇\" tvg-logo="https://cdn7.esnad.dpdns.org/fdaece6cb2e772a2f5be954f06e3d3292620782d2654a60789d717aae1ec1813c563aaa143531bff046f806fc07b475edb489997735a3c00a8fb6f9928fdc49ed67ab9c13c2b53677945f8bc9cbb624db5a206311cb1e0216f2a740634e208e8930e1db33767317bbfccf25dbb7dd313" group-title="戲劇",GagaOOLala 精選LGBTQ+好劇
+https://player.esnad.dpdns.org/player/cdn.php?id=471&token=5cb3c2e957230e199339d2ec963e9929d22604d4cbdd49433ce0a083a87d9bcc
+#EXTINF:-1 tvg-id=\"龍華電影台\" tvg-name=\"龍華電影台\" tvg-logo="https://cdn7.esnad.dpdns.org/b6f0895d274e9aeea6008a5f06d492bd51b61a0e9ed162f28bfa414993df3cf63d070d431979bd8ac6ea1b2e9d8c8bf0017944710db2d7ba5278330cbd5e26db39bfe3c944f738b581d007681dede05ed9e1dc09972cc6ff554e152ee7409922" group-title="電影",龍華電影台
+https://player.esnad.dpdns.org/player/cdn.php?id=lhdy&token=22794e7b9597c128a07149e63e5924c1e59a040cfc30616fe5fc2e62014d1d8d
+#EXTINF:-1 tvg-id=\"龍華經典台\" tvg-name=\"龍華經典台\" tvg-logo="https://cdn7.esnad.dpdns.org/136af4443f8d3f3a7909e276c6d8b979e21690e13face7866e68ed5df5c2ab70f08e69e26aa2124b31f9da93d63d86669dc57466192ba8697fb7c43ba5ffdd70d50979f3868c8756cc38e6324ef2144a7d30f852f5dfbf957f589253e314320a" group-title="電影",龍華經典台
+https://player.esnad.dpdns.org/player/cdn.php?id=lhjd&token=22794e7b9597c128a07149e63e5924c1e59a040cfc30616fe5fc2e62014d1d8d
+#EXTINF:-1 tvg-id=\"龍華卡通台\" tvg-name=\"龍華卡通台\" tvg-logo="https://cdn7.esnad.dpdns.org/356eb4a41717ddb6abcf0d8b2be481752a936928bb6555e0ec806a86994d536324ee53fea23b3e75689e16ffe95a080ca881087196963bf2f13fed69eadf22a13397b8dd2ae62ce72354288152524707124065e1703390756c485eea5bbbe085" group-title="儿童",龍華卡通台
+https://player.esnad.dpdns.org/player/cdn.php?id=lhkt&token=22794e7b9597c128a07149e63e5924c1e59a040cfc30616fe5fc2e62014d1d8d
+#EXTINF:-1 tvg-id=龍華偶像台 tvg-name=\"龍華偶像台\" tvg-logo="https://cdn7.esnad.dpdns.org/b07047c671e0382f8329091fcf4e60de832ba7948c734e8d495ff06f118e0161cbe9e9e4eb835f3a7cf6f70310f8e5437123501506fb29fe00998bd92b5870a4ea6618be681b3f3567f18a372fa661a2474c66bd622a16e2ef05e45585eb37f1" group-title="戲劇",龍華偶像台
+https://player.esnad.dpdns.org/player/cdn.php?id=lhox&token=22794e7b9597c128a07149e63e5924c1e59a040cfc30616fe5fc2e62014d1d8d
+#EXTINF:-1 tvg-id=\"龍華日韓台 tvg-name=\"龍華日韓台\" tvg-logo="https://cdn7.esnad.dpdns.org/6915b65dbbd6f8e6a55924ba0e53cbc446ecfc3676f2626527b7effd0a0f225178e22d52d6e083b5c11c44afa87e7854b620056a9c110a0f971bfe2c4058f7484e64720548c606b1441319227dc713023b6e781b699cc899dffdcfd3ccaa542e" group-title="戲劇",龍華日韓台
+https://player.esnad.dpdns.org/player/cdn.php?id=lhrh&token=22794e7b9597c128a07149e63e5924c1e59a040cfc30616fe5fc2e62014d1d8d
+#EXTINF:-1 tvg-id=\"龍華戲劇台\" tvg-name=\"龍華戲劇台\" tvg-logo="https://cdn7.esnad.dpdns.org/26b22787db0b744a66959882752eb35c47222865961791e070f43183fe6379aa2af744d9d92af7362dfd3366267c43b44cbac43fa70b5dceae592f0db2069fe61982904cb0f329e4d77bf849bace333e2c7a6052deeca77508b3a802214e1fa0" group-title="戲劇",龍華戲劇台
+https://player.esnad.dpdns.org/player/cdn.php?id=lhxj&token=22794e7b9597c128a07149e63e5924c1e59a040cfc30616fe5fc2e62014d1d8d
+#EXTINF:-1 tvg-id=\"龍華洋片台\" tvg-name=\"龍華洋片台\" tvg-logo="https://cdn7.esnad.dpdns.org/1d5840c61854643d5c3f523ed3cb4a774b3f4a3c45f58284d876c835a6d6fde2b8b434b47e1ecb2c6eb53257f8d686d56d36a0f992d5c099748078b5ff44e065dbcbb21a914fdd67151c21e434df8e6d23e0bb00973780d17a13bc87eee21ecc" group-title="電影",龍華洋片台
+https://player.esnad.dpdns.org/player/cdn.php?id=lhyp&token=22794e7b9597c128a07149e63e5924c1e59a040cfc30616fe5fc2e62014d1d8d
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="港澳",美亚电影
+https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港澳",天映频道
+http://cdn10.163189.xyz/163189/typd
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港澳",天映经典
+http://cdn10.163189.xyz/163189/ccm
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
